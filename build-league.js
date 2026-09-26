@@ -262,10 +262,14 @@ groups.forEach((g, tid) => {
 	const last = Math.max(...seasons);
 	const firstInfo = infoFor(timeline[g][first], first);
 
+	// Teams that join later start disabled, in a division that exists at the
+	// start (BBGM tries to fix invalid ones before the league is loaded, and
+	// crashes). The expansion draft/teamInfo events move them later.
+	const startDiv = divEra(START).divs.find((d) => d.cid === firstInfo.cid) ?? divEra(START).divs[0];
 	teams.push({
 		tid,
 		...firstInfo,
-		...(first > START ? { disabled: true } : {}),
+		...(first > START ? { did: startDiv.did, cid: startDiv.cid, disabled: true } : {}),
 	});
 
 	let prev = firstInfo;
