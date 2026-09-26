@@ -1,0 +1,5377 @@
+{
+	"version": 67,
+	"startingSeason": 1947,
+	"gameAttributes": {
+		"startingSeason": 1947,
+		"hideDisabledTeams": true,
+		"playIn": false,
+		"numGames": [
+			{
+				"start": null,
+				"value": 60
+			},
+			{
+				"start": 1948,
+				"value": 48
+			},
+			{
+				"start": 1949,
+				"value": 60
+			},
+			{
+				"start": 1950,
+				"value": 68
+			},
+			{
+				"start": 1952,
+				"value": 66
+			},
+			{
+				"start": 1953,
+				"value": 70
+			},
+			{
+				"start": 1954,
+				"value": 72
+			},
+			{
+				"start": 1960,
+				"value": 75
+			},
+			{
+				"start": 1961,
+				"value": 79
+			},
+			{
+				"start": 1962,
+				"value": 80
+			},
+			{
+				"start": 1967,
+				"value": 81
+			},
+			{
+				"start": 1968,
+				"value": 82
+			}
+		],
+		"numGamesPlayoffSeries": [
+			{
+				"start": null,
+				"value": [
+					3,
+					5,
+					7
+				]
+			},
+			{
+				"start": 1967,
+				"value": [
+					5,
+					7,
+					7
+				]
+			},
+			{
+				"start": 1976,
+				"value": [
+					3,
+					7,
+					7,
+					7
+				]
+			},
+			{
+				"start": 1984,
+				"value": [
+					5,
+					7,
+					7,
+					7
+				]
+			},
+			{
+				"start": 2003,
+				"value": [
+					7,
+					7,
+					7,
+					7
+				]
+			}
+		],
+		"numPlayoffByes": [
+			{
+				"start": null,
+				"value": 2
+			},
+			{
+				"start": 1967,
+				"value": 0
+			},
+			{
+				"start": 1976,
+				"value": 4
+			},
+			{
+				"start": 1984,
+				"value": 0
+			},
+			{
+				"start": 2003,
+				"value": 0
+			}
+		],
+		"confs": [
+			{
+				"start": null,
+				"value": [
+					{
+						"cid": 0,
+						"name": "Eastern Conference"
+					},
+					{
+						"cid": 1,
+						"name": "Western Conference"
+					}
+				]
+			},
+			{
+				"start": 1950,
+				"value": [
+					{
+						"cid": 0,
+						"name": "Eastern Conference"
+					},
+					{
+						"cid": 1,
+						"name": "Central Conference"
+					},
+					{
+						"cid": 2,
+						"name": "Western Conference"
+					}
+				]
+			},
+			{
+				"start": 1951,
+				"value": [
+					{
+						"cid": 0,
+						"name": "Eastern Conference"
+					},
+					{
+						"cid": 1,
+						"name": "Western Conference"
+					}
+				]
+			},
+			{
+				"start": 1971,
+				"value": [
+					{
+						"cid": 0,
+						"name": "Eastern Conference"
+					},
+					{
+						"cid": 1,
+						"name": "Western Conference"
+					}
+				]
+			},
+			{
+				"start": 2005,
+				"value": [
+					{
+						"cid": 0,
+						"name": "Eastern Conference"
+					},
+					{
+						"cid": 1,
+						"name": "Western Conference"
+					}
+				]
+			}
+		],
+		"divs": [
+			{
+				"start": null,
+				"value": [
+					{
+						"did": 0,
+						"cid": 0,
+						"name": "Eastern Division"
+					},
+					{
+						"did": 1,
+						"cid": 1,
+						"name": "Western Division"
+					}
+				]
+			},
+			{
+				"start": 1950,
+				"value": [
+					{
+						"did": 0,
+						"cid": 0,
+						"name": "Eastern Division"
+					},
+					{
+						"did": 1,
+						"cid": 1,
+						"name": "Central Division"
+					},
+					{
+						"did": 2,
+						"cid": 2,
+						"name": "Western Division"
+					}
+				]
+			},
+			{
+				"start": 1951,
+				"value": [
+					{
+						"did": 0,
+						"cid": 0,
+						"name": "Eastern Division"
+					},
+					{
+						"did": 1,
+						"cid": 1,
+						"name": "Western Division"
+					}
+				]
+			},
+			{
+				"start": 1971,
+				"value": [
+					{
+						"did": 0,
+						"cid": 0,
+						"name": "Atlantic Division"
+					},
+					{
+						"did": 1,
+						"cid": 0,
+						"name": "Central Division"
+					},
+					{
+						"did": 2,
+						"cid": 1,
+						"name": "Midwest Division"
+					},
+					{
+						"did": 3,
+						"cid": 1,
+						"name": "Pacific Division"
+					}
+				]
+			},
+			{
+				"start": 2005,
+				"value": [
+					{
+						"did": 0,
+						"cid": 0,
+						"name": "Atlantic Division"
+					},
+					{
+						"did": 1,
+						"cid": 0,
+						"name": "Central Division"
+					},
+					{
+						"did": 2,
+						"cid": 0,
+						"name": "Southeast Division"
+					},
+					{
+						"did": 3,
+						"cid": 1,
+						"name": "Southwest Division"
+					},
+					{
+						"did": 4,
+						"cid": 1,
+						"name": "Northwest Division"
+					},
+					{
+						"did": 5,
+						"cid": 1,
+						"name": "Pacific Division"
+					}
+				]
+			}
+		]
+	},
+	"teams": [
+		{
+			"tid": 0,
+			"did": 0,
+			"cid": 0,
+			"pop": 4.9,
+			"abbrev": "BOS",
+			"region": "Boston",
+			"name": "Celtics",
+			"colors": [
+				"#007a33",
+				"#ffffff",
+				"#ffffff"
+			],
+			"imgURL": "https://i.imgur.com/H94UWlD.png",
+			"imgURLSmall": "https://i.imgur.com/Lh6bjaR.png"
+		},
+		{
+			"tid": 1,
+			"did": 1,
+			"cid": 1,
+			"pop": 9.4,
+			"abbrev": "CHS",
+			"region": "Chicago",
+			"name": "Stags",
+			"colors": [
+				"#ffffff",
+				"#FF0000",
+				"#0000ff"
+			],
+			"imgURL": "https://i.imgur.com/Tr9ECO9.png",
+			"imgURLSmall": "https://i.imgur.com/ZHb6ft9.png"
+		},
+		{
+			"tid": 2,
+			"did": 1,
+			"cid": 1,
+			"pop": 2.1,
+			"abbrev": "CLR",
+			"region": "Cleveland",
+			"name": "Rebels",
+			"colors": [
+				"#FFA500",
+				"#ffffff",
+				"#0000ff"
+			],
+			"imgURL": "https://i.ibb.co/fv5LL9r/clr.png"
+		},
+		{
+			"tid": 3,
+			"did": 1,
+			"cid": 1,
+			"pop": 4.4,
+			"abbrev": "DTF",
+			"region": "Detroit",
+			"name": "Falcons",
+			"colors": [
+				"#FFFF00",
+				"#A52A2A",
+				"#000000"
+			],
+			"imgURL": "https://i.ibb.co/pj8q5YC/dtf.png"
+		},
+		{
+			"tid": 4,
+			"did": 0,
+			"cid": 0,
+			"pop": 20.1,
+			"abbrev": "NYK",
+			"region": "New York",
+			"name": "Knicks",
+			"colors": [
+				"#003da5",
+				"#e35205",
+				"#ffffff"
+			],
+			"imgURL": "https://i.ibb.co/9ny8pH1/nyk1947.png"
+		},
+		{
+			"tid": 5,
+			"did": 0,
+			"cid": 0,
+			"pop": 6.2,
+			"abbrev": "PHW",
+			"region": "Philadelphia",
+			"name": "Warriors",
+			"colors": [
+				"#0000ff",
+				"#ffffff",
+				"#ffffff"
+			],
+			"imgURL": "https://i.ibb.co/68j9rbL/phw1947.png"
+		},
+		{
+			"tid": 6,
+			"did": 1,
+			"cid": 1,
+			"pop": 2.4,
+			"abbrev": "PIT",
+			"region": "Pittsburgh",
+			"name": "Ironmen",
+			"colors": [
+				"#996600",
+				"#ffffff",
+				"#FF0000"
+			],
+			"imgURL": "https://i.imgur.com/0m2D31l.png"
+		},
+		{
+			"tid": 7,
+			"did": 0,
+			"cid": 0,
+			"pop": 1.7,
+			"abbrev": "PRO",
+			"region": "Providence",
+			"name": "Steamrollers",
+			"colors": [
+				"#d50032",
+				"#010101",
+				"#ffffff"
+			],
+			"imgURL": "https://i.imgur.com/dRLWgIm.png",
+			"imgURLSmall": "https://i.imgur.com/oAWvTaS.png"
+		},
+		{
+			"tid": 8,
+			"did": 1,
+			"cid": 1,
+			"pop": 2.8,
+			"abbrev": "STB",
+			"region": "St. Louis",
+			"name": "Bombers",
+			"colors": [
+				"#996600",
+				"#000000",
+				"#000000"
+			],
+			"imgURL": "https://i.imgur.com/qjoZi2x.png"
+		},
+		{
+			"tid": 9,
+			"did": 0,
+			"cid": 0,
+			"pop": 6.7,
+			"abbrev": "TRH",
+			"region": "Toronto",
+			"name": "Huskies",
+			"colors": [
+				"#0000ff",
+				"#ffffff",
+				"#000000"
+			],
+			"imgURL": "https://i.ibb.co/JFLqmRt/trh.png"
+		},
+		{
+			"tid": 10,
+			"did": 0,
+			"cid": 0,
+			"pop": 6.4,
+			"abbrev": "WSC",
+			"region": "Washington",
+			"name": "Capitols",
+			"colors": [
+				"#002B5C",
+				"#e31837",
+				"#C4CED4"
+			],
+			"imgURL": "https://i.imgur.com/OhZqy1q.png"
+		},
+		{
+			"tid": 11,
+			"did": 1,
+			"cid": 1,
+			"pop": 2.8,
+			"abbrev": "BLB",
+			"region": "Baltimore",
+			"name": "Bullets",
+			"colors": [
+				"#e35205",
+				"#002855",
+				"#ffffff"
+			],
+			"imgURL": "https://i.ibb.co/LxQkyLy/blb.png",
+			"disabled": true
+		},
+		{
+			"tid": 12,
+			"did": 1,
+			"cid": 1,
+			"pop": 0.4,
+			"abbrev": "FTW",
+			"region": "Fort Wayne",
+			"name": "Pistons",
+			"colors": [
+				"#C0C0C0",
+				"#FF0000",
+				"#ffffff"
+			],
+			"imgURL": "https://i.imgur.com/PPk2Bo8.png",
+			"imgURLSmall": "https://i.ibb.co/Q8zS8Rq/ftw.png",
+			"disabled": true
+		},
+		{
+			"tid": 13,
+			"did": 1,
+			"cid": 1,
+			"pop": 2.1,
+			"abbrev": "INJ",
+			"region": "Indianapolis",
+			"name": "Jets",
+			"colors": [
+				"#000080",
+				"#ffffff",
+				"#FF8C00"
+			],
+			"imgURL": "https://i.ibb.co/xJZn4WR/inj.png",
+			"disabled": true
+		},
+		{
+			"tid": 14,
+			"did": 1,
+			"cid": 1,
+			"pop": 1.1,
+			"abbrev": "ROC",
+			"region": "Rochester",
+			"name": "Royals",
+			"colors": [
+				"#000080",
+				"#ffffff",
+				"#ffffff"
+			],
+			"imgURL": "https://i.ibb.co/ZX11FkD/roc.png",
+			"disabled": true
+		},
+		{
+			"tid": 15,
+			"did": 1,
+			"cid": 1,
+			"pop": 3.7,
+			"abbrev": "MNL",
+			"region": "Minneapolis",
+			"name": "Lakers",
+			"colors": [
+				"#7ba4da",
+				"#fdec08",
+				"#fdec08"
+			],
+			"imgURL": "https://i.ibb.co/sCMnkxb/mnl.png",
+			"imgURLSmall": "https://i.imgur.com/UNcDlzI.png",
+			"disabled": true
+		},
+		{
+			"tid": 16,
+			"did": 2,
+			"cid": 2,
+			"pop": 0.1,
+			"abbrev": "AND",
+			"region": "Anderson",
+			"name": "Packers",
+			"colors": [
+				"#ffffff",
+				"#000080",
+				"#ffffff"
+			],
+			"imgURL": "https://i.ibb.co/Sckm3ws/and.png",
+			"disabled": true
+		},
+		{
+			"tid": 17,
+			"did": 2,
+			"cid": 2,
+			"pop": 3,
+			"abbrev": "DNN",
+			"region": "Denver",
+			"name": "Nuggets",
+			"colors": [
+				"#041E42",
+				"#9D2235",
+				"#8B6F4E"
+			],
+			"imgURL": "https://i.ibb.co/WcS9k79/dnn.png",
+			"disabled": true
+		},
+		{
+			"tid": 18,
+			"did": 2,
+			"cid": 2,
+			"pop": 2.1,
+			"abbrev": "INO",
+			"region": "Indianapolis",
+			"name": "Olympians",
+			"colors": [
+				"#0000ff",
+				"#ffffff",
+				"#FF0000"
+			],
+			"imgURL": "https://i.ibb.co/wR32M69/ino.png",
+			"disabled": true
+		},
+		{
+			"tid": 19,
+			"did": 2,
+			"cid": 2,
+			"pop": 0.4,
+			"abbrev": "TRI",
+			"region": "Tri-Cities",
+			"name": "Black Hawks",
+			"colors": [
+				"#89cff0",
+				"#ffffff",
+				"#000000"
+			],
+			"imgURL": "https://i.ibb.co/zh5Xbm9/tri.png",
+			"disabled": true
+		},
+		{
+			"tid": 20,
+			"did": 0,
+			"cid": 0,
+			"pop": 0.7,
+			"abbrev": "SYR",
+			"region": "Syracuse",
+			"name": "Nationals",
+			"colors": [
+				"#d50032",
+				"#002f6c",
+				"#c79969"
+			],
+			"imgURL": "https://i.ibb.co/Vjq68Gy/syr.png",
+			"disabled": true
+		},
+		{
+			"tid": 21,
+			"did": 2,
+			"cid": 2,
+			"pop": 0.1,
+			"abbrev": "SHE",
+			"region": "Sheboygan",
+			"name": "Red Skins",
+			"colors": [
+				"#0000ff",
+				"#FF0000",
+				"#FF0000"
+			],
+			"imgURL": "https://i.ibb.co/4Sk4gtc/she.png",
+			"disabled": true
+		},
+		{
+			"tid": 22,
+			"did": 2,
+			"cid": 2,
+			"pop": 0.2,
+			"abbrev": "WAT",
+			"region": "Waterloo",
+			"name": "Hawks",
+			"colors": [
+				"#FFDF00",
+				"#89cff0",
+				"#ffffff"
+			],
+			"imgURL": "https://i.ibb.co/PWNSLKn/wat.png",
+			"disabled": true
+		},
+		{
+			"tid": 23,
+			"did": 1,
+			"cid": 1,
+			"pop": 9.4,
+			"abbrev": "CHP",
+			"region": "Chicago",
+			"name": "Packers",
+			"colors": [
+				"#A52A2A",
+				"#f2cf9d",
+				"#ffffff"
+			],
+			"imgURL": "https://i.imgur.com/CirXlth.png",
+			"disabled": true
+		},
+		{
+			"tid": 24,
+			"did": 1,
+			"cid": 1,
+			"pop": 9.4,
+			"abbrev": "CHI",
+			"region": "Chicago",
+			"name": "Bulls",
+			"colors": [
+				"#CE1141",
+				"#000000",
+				"#ffffff"
+			],
+			"imgURL": "https://i.imgur.com/Nulx9UE.png",
+			"imgURLSmall": "https://i.imgur.com/T8ApQxR.png",
+			"disabled": true
+		},
+		{
+			"tid": 25,
+			"did": 1,
+			"cid": 1,
+			"pop": 3.3,
+			"abbrev": "SDR",
+			"region": "San Diego",
+			"name": "Rockets",
+			"colors": [
+				"#008000",
+				"#FFA500",
+				"#0000ff"
+			],
+			"imgURL": "https://i.ibb.co/MN7W3J6/sdr.png",
+			"disabled": true
+		},
+		{
+			"tid": 26,
+			"did": 1,
+			"cid": 1,
+			"pop": 4,
+			"abbrev": "SEA",
+			"region": "Seattle",
+			"name": "SuperSonics",
+			"colors": [
+				"#173f35",
+				"#ffffff",
+				"#eaaa00"
+			],
+			"imgURL": "https://i.imgur.com/GahKo8c.png",
+			"imgURLSmall": "https://i.imgur.com/0uVxP7M.png",
+			"disabled": true
+		},
+		{
+			"tid": 27,
+			"did": 0,
+			"cid": 0,
+			"pop": 1.6,
+			"abbrev": "MIL",
+			"region": "Milwaukee",
+			"name": "Bucks",
+			"colors": [
+				"#009429",
+				"#f7a500",
+				"#ffffff"
+			],
+			"imgURL": "https://i.ibb.co/fMW90hT/mil1969.png",
+			"imgURLSmall": "https://i.imgur.com/plZt0sf.png",
+			"disabled": true
+		},
+		{
+			"tid": 28,
+			"did": 1,
+			"cid": 1,
+			"pop": 5,
+			"abbrev": "PHO",
+			"region": "Phoenix",
+			"name": "Suns",
+			"colors": [
+				"#702f8a",
+				"#fa4616",
+				"#ffffff"
+			],
+			"imgURL": "https://i.imgur.com/MWnKsW8.png",
+			"imgURLSmall": "https://i.imgur.com/34fARsB.png",
+			"disabled": true
+		},
+		{
+			"tid": 29,
+			"did": 1,
+			"cid": 0,
+			"pop": 2.1,
+			"abbrev": "CLE",
+			"region": "Cleveland",
+			"name": "Cavaliers",
+			"colors": [
+				"#76232f",
+				"#ffa400",
+				"#ffa400"
+			],
+			"imgURL": "https://i.ibb.co/jwrfQzF/cle1971.png",
+			"imgURLSmall": "https://i.imgur.com/tBJcYD7.png",
+			"disabled": true
+		},
+		{
+			"tid": 30,
+			"did": 0,
+			"cid": 0,
+			"pop": 1.1,
+			"abbrev": "BUF",
+			"region": "Buffalo",
+			"name": "Braves",
+			"colors": [
+				"#002f6c",
+				"#daaa00",
+				"#d50032"
+			],
+			"imgURL": "https://i.imgur.com/cNE59IX.png",
+			"imgURLSmall": "https://i.imgur.com/cFrkZ5i.png",
+			"disabled": true
+		},
+		{
+			"tid": 31,
+			"did": 3,
+			"cid": 1,
+			"pop": 2.5,
+			"abbrev": "POR",
+			"region": "Portland",
+			"name": "Trail Blazers",
+			"colors": [
+				"#ba0c2f",
+				"#ffffff",
+				"#000000"
+			],
+			"imgURL": "https://i.imgur.com/MTiHNr2.png",
+			"imgURLSmall": "https://i.imgur.com/iiI420p.png",
+			"disabled": true
+		},
+		{
+			"tid": 32,
+			"did": 1,
+			"cid": 0,
+			"pop": 1.3,
+			"abbrev": "NOJ",
+			"region": "New Orleans",
+			"name": "Jazz",
+			"colors": [
+				"#572c5f",
+				"#ffffff",
+				"#ffc72c"
+			],
+			"imgURL": "https://i.ibb.co/894qpF7/noj.png",
+			"imgURLSmall": "https://i.imgur.com/pBaFzX7.png",
+			"disabled": true
+		},
+		{
+			"tid": 33,
+			"did": 0,
+			"cid": 0,
+			"pop": 20.1,
+			"abbrev": "NYN",
+			"region": "New York",
+			"name": "Nets",
+			"colors": [
+				"#FF0000",
+				"#ffffff",
+				"#0000ff"
+			],
+			"imgURL": "https://i.ibb.co/3TJRd0b/nyn.png",
+			"disabled": true
+		},
+		{
+			"tid": 34,
+			"did": 2,
+			"cid": 1,
+			"pop": 3,
+			"abbrev": "DEN",
+			"region": "Denver",
+			"name": "Nuggets",
+			"colors": [
+				"#041E42",
+				"#9D2235",
+				"#8B6F4E"
+			],
+			"imgURL": "https://i.imgur.com/Z1xBxsd.png",
+			"imgURLSmall": "https://i.ibb.co/9VGgW5L/den1977.png",
+			"disabled": true
+		},
+		{
+			"tid": 35,
+			"did": 2,
+			"cid": 1,
+			"pop": 2.1,
+			"abbrev": "IND",
+			"region": "Indiana",
+			"name": "Pacers",
+			"colors": [
+				"#002D62",
+				"#FDBB30",
+				"#BEC0C2"
+			],
+			"imgURL": "https://i.imgur.com/lImXIdy.png",
+			"imgURLSmall": "https://i.imgur.com/6Lxrsh8.png",
+			"disabled": true
+		},
+		{
+			"tid": 36,
+			"did": 1,
+			"cid": 0,
+			"pop": 2.7,
+			"abbrev": "SAS",
+			"region": "San Antonio",
+			"name": "Spurs",
+			"colors": [
+				"#010101",
+				"#ffffff",
+				"#cdd6db"
+			],
+			"imgURL": "https://i.imgur.com/nmTndNU.png",
+			"imgURLSmall": "https://i.imgur.com/sXQ72tS.png",
+			"disabled": true
+		},
+		{
+			"tid": 37,
+			"did": 2,
+			"cid": 1,
+			"pop": 8.1,
+			"abbrev": "DAL",
+			"region": "Dallas",
+			"name": "Mavericks",
+			"colors": [
+				"#002855",
+				"#00843D",
+				"#ffffff"
+			],
+			"imgURL": "https://i.imgur.com/onl5325.png",
+			"imgURLSmall": "https://i.ibb.co/7WtByGJ/dal1981.png",
+			"disabled": true
+		},
+		{
+			"tid": 38,
+			"did": 2,
+			"cid": 1,
+			"pop": 6.2,
+			"abbrev": "MIA",
+			"region": "Miami",
+			"name": "Heat",
+			"colors": [
+				"#010101",
+				"#ffffff",
+				"#ba0c2f"
+			],
+			"imgURL": "https://i.imgur.com/22xPMMf.png",
+			"imgURLSmall": "https://i.imgur.com/H3zhapI.png",
+			"disabled": true
+		},
+		{
+			"tid": 39,
+			"did": 0,
+			"cid": 0,
+			"pop": 2.8,
+			"abbrev": "CHH",
+			"region": "Charlotte",
+			"name": "Hornets",
+			"colors": [
+				"#00778B",
+				"#ffffff",
+				"#0032a0"
+			],
+			"imgURL": "https://i.ibb.co/fMPCZQD/chh1990.png",
+			"imgURLSmall": "https://i.imgur.com/vEStMWF.png",
+			"disabled": true
+		},
+		{
+			"tid": 40,
+			"did": 2,
+			"cid": 1,
+			"pop": 3.7,
+			"abbrev": "MIN",
+			"region": "Minnesota",
+			"name": "Timberwolves",
+			"colors": [
+				"#24429C",
+				"#1CA64C",
+				"#848A8C"
+			],
+			"imgURL": "https://i.ibb.co/hHTjzFC/min1990.png",
+			"imgURLSmall": "https://i.imgur.com/xTBBEpJ.png",
+			"disabled": true
+		},
+		{
+			"tid": 41,
+			"did": 1,
+			"cid": 0,
+			"pop": 2.8,
+			"abbrev": "ORL",
+			"region": "Orlando",
+			"name": "Magic",
+			"colors": [
+				"#0077c0",
+				"#C4ced4",
+				"#000000"
+			],
+			"imgURL": "https://i.ibb.co/3Wyz1TD/orl1990.png",
+			"imgURLSmall": "https://i.imgur.com/HIp0r3z.png",
+			"disabled": true
+		},
+		{
+			"tid": 42,
+			"did": 2,
+			"cid": 1,
+			"pop": 2.6,
+			"abbrev": "VAN",
+			"region": "Vancouver",
+			"name": "Grizzlies",
+			"colors": [
+				"#00B2A9",
+				"#E43C40",
+				"#BC7844"
+			],
+			"imgURL": "https://i.ibb.co/zh9PzyJ/van.png",
+			"imgURLSmall": "https://i.imgur.com/JUUJZNu.png",
+			"disabled": true
+		},
+		{
+			"tid": 43,
+			"did": 1,
+			"cid": 0,
+			"pop": 6.7,
+			"abbrev": "TOR",
+			"region": "Toronto",
+			"name": "Raptors",
+			"colors": [
+				"#753BBD",
+				"#ffffff",
+				"#ba0c2f"
+			],
+			"imgURL": "https://i.ibb.co/4SYfcv3/tor1996.png",
+			"imgURLSmall": "https://i.imgur.com/ZUPwzNy.png",
+			"disabled": true
+		},
+		{
+			"tid": 44,
+			"did": 2,
+			"cid": 0,
+			"pop": 2.8,
+			"abbrev": "CHA",
+			"region": "Charlotte",
+			"name": "Bobcats",
+			"colors": [
+				"#f9423a",
+				"#ffffff",
+				"#1b365d"
+			],
+			"imgURL": "https://i.ibb.co/sbwBPkc/cha2005.png",
+			"imgURLSmall": "https://i.imgur.com/O5atZ2j.png",
+			"disabled": true
+		}
+	],
+	"scheduledEvents": [
+		{
+			"type": "teamInfo",
+			"season": 1950,
+			"phase": 0,
+			"info": {
+				"tid": 0,
+				"did": 0,
+				"cid": 0
+			},
+			"id": 1
+		},
+		{
+			"type": "teamInfo",
+			"season": 1951,
+			"phase": 0,
+			"info": {
+				"tid": 0,
+				"did": 0,
+				"cid": 0,
+				"imgURL": "https://i.ibb.co/d5T2N2m/bos1951.png",
+				"imgURLSmall": "https://i.imgur.com/Lh6bjaR.png"
+			},
+			"id": 2
+		},
+		{
+			"type": "teamInfo",
+			"season": 1961,
+			"phase": 0,
+			"info": {
+				"tid": 0,
+				"did": 0,
+				"cid": 0,
+				"imgURL": "https://i.ibb.co/gMJ6fCK/bos1961.png",
+				"imgURLSmall": "https://i.imgur.com/Lh6bjaR.png"
+			},
+			"id": 3
+		},
+		{
+			"type": "teamInfo",
+			"season": 1969,
+			"phase": 0,
+			"info": {
+				"tid": 0,
+				"did": 0,
+				"cid": 0,
+				"imgURL": "https://i.imgur.com/FfbLfgd.png",
+				"imgURLSmall": "https://i.imgur.com/Lh6bjaR.png"
+			},
+			"id": 4
+		},
+		{
+			"type": "teamInfo",
+			"season": 1971,
+			"phase": 0,
+			"info": {
+				"tid": 0,
+				"did": 0,
+				"cid": 0
+			},
+			"id": 5
+		},
+		{
+			"type": "teamInfo",
+			"season": 1977,
+			"phase": 0,
+			"info": {
+				"tid": 0,
+				"did": 0,
+				"cid": 0,
+				"imgURL": "https://i.ibb.co/sv4n0CR/bos1977.png",
+				"imgURLSmall": "https://i.imgur.com/Lh6bjaR.png"
+			},
+			"id": 6
+		},
+		{
+			"type": "teamInfo",
+			"season": 1997,
+			"phase": 0,
+			"info": {
+				"tid": 0,
+				"did": 0,
+				"cid": 0,
+				"imgURL": "https://i.ibb.co/FVBSdzj/bos1997.png",
+				"imgURLSmall": "https://i.imgur.com/Jts3BXK.png"
+			},
+			"id": 7
+		},
+		{
+			"type": "teamInfo",
+			"season": 2005,
+			"phase": 0,
+			"info": {
+				"tid": 0,
+				"did": 0,
+				"cid": 0
+			},
+			"id": 8
+		},
+		{
+			"type": "teamInfo",
+			"season": 1950,
+			"phase": 0,
+			"info": {
+				"tid": 1,
+				"did": 1,
+				"cid": 1
+			},
+			"id": 9
+		},
+		{
+			"type": "contraction",
+			"season": 1950,
+			"phase": 4,
+			"info": {
+				"tid": 1
+			},
+			"id": 10
+		},
+		{
+			"type": "contraction",
+			"season": 1947,
+			"phase": 4,
+			"info": {
+				"tid": 2
+			},
+			"id": 11
+		},
+		{
+			"type": "contraction",
+			"season": 1947,
+			"phase": 4,
+			"info": {
+				"tid": 3
+			},
+			"id": 12
+		},
+		{
+			"type": "teamInfo",
+			"season": 1950,
+			"phase": 0,
+			"info": {
+				"tid": 4,
+				"did": 0,
+				"cid": 0
+			},
+			"id": 13
+		},
+		{
+			"type": "teamInfo",
+			"season": 1951,
+			"phase": 0,
+			"info": {
+				"tid": 4,
+				"did": 0,
+				"cid": 0
+			},
+			"id": 14
+		},
+		{
+			"type": "teamInfo",
+			"season": 1965,
+			"phase": 0,
+			"info": {
+				"tid": 4,
+				"did": 0,
+				"cid": 0,
+				"imgURL": "https://i.ibb.co/ZLKtfyk/nyk1965.png"
+			},
+			"id": 15
+		},
+		{
+			"type": "teamInfo",
+			"season": 1968,
+			"phase": 0,
+			"info": {
+				"tid": 4,
+				"did": 0,
+				"cid": 0,
+				"imgURLSmall": "https://i.imgur.com/IOGCqw7.png"
+			},
+			"id": 16
+		},
+		{
+			"type": "teamInfo",
+			"season": 1971,
+			"phase": 0,
+			"info": {
+				"tid": 4,
+				"did": 0,
+				"cid": 0
+			},
+			"id": 17
+		},
+		{
+			"type": "teamInfo",
+			"season": 1980,
+			"phase": 0,
+			"info": {
+				"tid": 4,
+				"did": 0,
+				"cid": 0,
+				"imgURL": "https://i.ibb.co/dkdkD2S/nyk1980.png",
+				"imgURLSmall": "https://i.imgur.com/IOGCqw7.png"
+			},
+			"id": 18
+		},
+		{
+			"type": "teamInfo",
+			"season": 1984,
+			"phase": 0,
+			"info": {
+				"tid": 4,
+				"did": 0,
+				"cid": 0,
+				"imgURL": "https://i.ibb.co/gVNfJzh/nyk1984.png",
+				"imgURLSmall": "https://i.imgur.com/IOGCqw7.png"
+			},
+			"id": 19
+		},
+		{
+			"type": "teamInfo",
+			"season": 1990,
+			"phase": 0,
+			"info": {
+				"tid": 4,
+				"did": 0,
+				"cid": 0,
+				"imgURL": "https://i.ibb.co/vY5Ssnn/nyk1990.png",
+				"imgURLSmall": "https://i.imgur.com/IOGCqw7.png"
+			},
+			"id": 20
+		},
+		{
+			"type": "teamInfo",
+			"season": 1993,
+			"phase": 0,
+			"info": {
+				"tid": 4,
+				"did": 0,
+				"cid": 0,
+				"imgURL": "https://i.ibb.co/3TRkM4t/nyk1993.png",
+				"imgURLSmall": "https://i.imgur.com/3dJz4UI.png"
+			},
+			"id": 21
+		},
+		{
+			"type": "teamInfo",
+			"season": 1996,
+			"phase": 0,
+			"info": {
+				"tid": 4,
+				"did": 0,
+				"cid": 0,
+				"colors": [
+					"#006BB6",
+					"#F58426",
+					"#BEC0C2"
+				],
+				"imgURL": "https://i.ibb.co/WtghM23/nyk1996.png",
+				"imgURLSmall": "https://i.imgur.com/6Ni2BlX.png"
+			},
+			"id": 22
+		},
+		{
+			"type": "teamInfo",
+			"season": 2005,
+			"phase": 0,
+			"info": {
+				"tid": 4,
+				"did": 0,
+				"cid": 0
+			},
+			"id": 23
+		},
+		{
+			"type": "teamInfo",
+			"season": 2012,
+			"phase": 0,
+			"info": {
+				"tid": 4,
+				"did": 0,
+				"cid": 0,
+				"imgURL": "https://i.imgur.com/5sMoAPA.png",
+				"imgURLSmall": "https://i.imgur.com/nvApVkz.png"
+			},
+			"id": 24
+		},
+		{
+			"type": "teamInfo",
+			"season": 1950,
+			"phase": 0,
+			"info": {
+				"tid": 5,
+				"did": 0,
+				"cid": 0
+			},
+			"id": 25
+		},
+		{
+			"type": "teamInfo",
+			"season": 1951,
+			"phase": 0,
+			"info": {
+				"tid": 5,
+				"did": 0,
+				"cid": 0
+			},
+			"id": 26
+		},
+		{
+			"type": "teamInfo",
+			"season": 1952,
+			"phase": 0,
+			"info": {
+				"tid": 5,
+				"did": 0,
+				"cid": 0,
+				"imgURL": "https://i.ibb.co/DRkCH3D/phw1952.png"
+			},
+			"id": 27
+		},
+		{
+			"type": "teamInfo",
+			"season": 1963,
+			"phase": 0,
+			"info": {
+				"tid": 5,
+				"did": 1,
+				"cid": 1,
+				"abbrev": "SFW",
+				"region": "San Francisco",
+				"colors": [
+					"#002F6C",
+					"#FFCD00",
+					"#ffffff"
+				],
+				"imgURL": "https://i.ibb.co/K5K5tH4/sfw1963.png",
+				"pop": 4.7
+			},
+			"id": 28
+		},
+		{
+			"type": "teamInfo",
+			"season": 1971,
+			"phase": 0,
+			"info": {
+				"tid": 5,
+				"did": 3,
+				"cid": 1,
+				"imgURL": "https://i.ibb.co/GxbnWwL/sfw1971.png",
+				"imgURLSmall": "https://i.imgur.com/QEudiBZ.png"
+			},
+			"id": 29
+		},
+		{
+			"type": "teamInfo",
+			"season": 1972,
+			"phase": 0,
+			"info": {
+				"tid": 5,
+				"did": 3,
+				"cid": 1,
+				"abbrev": "GSW",
+				"region": "Golden State",
+				"imgURL": "https://i.imgur.com/uRBeT26.png",
+				"imgURLSmall": "https://i.imgur.com/DQ2dtjC.png"
+			},
+			"id": 30
+		},
+		{
+			"type": "teamInfo",
+			"season": 1976,
+			"phase": 0,
+			"info": {
+				"tid": 5,
+				"did": 3,
+				"cid": 1,
+				"imgURL": "https://i.ibb.co/M6mjPDF/gsw1976.png",
+				"imgURLSmall": "https://i.imgur.com/TUJnlfI.png"
+			},
+			"id": 31
+		},
+		{
+			"type": "teamInfo",
+			"season": 1998,
+			"phase": 0,
+			"info": {
+				"tid": 5,
+				"did": 3,
+				"cid": 1,
+				"colors": [
+					"#041E42",
+					"#BE3A34",
+					"#FFA300"
+				],
+				"imgURL": "https://i.ibb.co/BjtThbQ/gsw1998.png",
+				"imgURLSmall": "https://i.imgur.com/JRzX7Sm.png"
+			},
+			"id": 32
+		},
+		{
+			"type": "teamInfo",
+			"season": 2005,
+			"phase": 0,
+			"info": {
+				"tid": 5,
+				"did": 5,
+				"cid": 1
+			},
+			"id": 33
+		},
+		{
+			"type": "teamInfo",
+			"season": 2011,
+			"phase": 0,
+			"info": {
+				"tid": 5,
+				"did": 5,
+				"cid": 1,
+				"colors": [
+					"#006BB6",
+					"#FDB927",
+					"#26282A"
+				],
+				"imgURL": "https://i.ibb.co/V9wRMC1/gsw2011.png",
+				"imgURLSmall": "https://i.imgur.com/UzLguZY.png"
+			},
+			"id": 34
+		},
+		{
+			"type": "teamInfo",
+			"season": 2020,
+			"phase": 0,
+			"info": {
+				"tid": 5,
+				"did": 5,
+				"cid": 1,
+				"colors": [
+					"#1D428A",
+					"#ffc72c",
+					"#26282A"
+				],
+				"imgURL": "https://i.imgur.com/lPL67qh.png",
+				"imgURLSmall": "https://i.imgur.com/46Wu1vc.png"
+			},
+			"id": 35
+		},
+		{
+			"type": "contraction",
+			"season": 1947,
+			"phase": 4,
+			"info": {
+				"tid": 6
+			},
+			"id": 36
+		},
+		{
+			"type": "contraction",
+			"season": 1949,
+			"phase": 4,
+			"info": {
+				"tid": 7
+			},
+			"id": 37
+		},
+		{
+			"type": "teamInfo",
+			"season": 1950,
+			"phase": 0,
+			"info": {
+				"tid": 8,
+				"did": 1,
+				"cid": 1
+			},
+			"id": 38
+		},
+		{
+			"type": "contraction",
+			"season": 1950,
+			"phase": 4,
+			"info": {
+				"tid": 8
+			},
+			"id": 39
+		},
+		{
+			"type": "contraction",
+			"season": 1947,
+			"phase": 4,
+			"info": {
+				"tid": 9
+			},
+			"id": 40
+		},
+		{
+			"type": "teamInfo",
+			"season": 1950,
+			"phase": 0,
+			"info": {
+				"tid": 10,
+				"did": 0,
+				"cid": 0
+			},
+			"id": 41
+		},
+		{
+			"type": "teamInfo",
+			"season": 1951,
+			"phase": 0,
+			"info": {
+				"tid": 10,
+				"did": 0,
+				"cid": 0
+			},
+			"id": 42
+		},
+		{
+			"type": "contraction",
+			"season": 1951,
+			"phase": 4,
+			"info": {
+				"tid": 10
+			},
+			"id": 43
+		},
+		{
+			"type": "expansionDraft",
+			"season": 1947,
+			"phase": 4,
+			"info": {
+				"teams": [
+					{
+						"did": 1,
+						"cid": 1,
+						"pop": 2.8,
+						"abbrev": "BLB",
+						"region": "Baltimore",
+						"name": "Bullets",
+						"colors": [
+							"#e35205",
+							"#002855",
+							"#ffffff"
+						],
+						"imgURL": "https://i.ibb.co/LxQkyLy/blb.png",
+						"tid": 11
+					}
+				],
+				"numProtectedPlayers": 11
+			},
+			"id": 44
+		},
+		{
+			"type": "teamInfo",
+			"season": 1949,
+			"phase": 0,
+			"info": {
+				"tid": 11,
+				"did": 0,
+				"cid": 0
+			},
+			"id": 45
+		},
+		{
+			"type": "teamInfo",
+			"season": 1950,
+			"phase": 0,
+			"info": {
+				"tid": 11,
+				"did": 0,
+				"cid": 0
+			},
+			"id": 46
+		},
+		{
+			"type": "teamInfo",
+			"season": 1951,
+			"phase": 0,
+			"info": {
+				"tid": 11,
+				"did": 0,
+				"cid": 0
+			},
+			"id": 47
+		},
+		{
+			"type": "contraction",
+			"season": 1955,
+			"phase": 4,
+			"info": {
+				"tid": 11
+			},
+			"id": 48
+		},
+		{
+			"type": "expansionDraft",
+			"season": 1948,
+			"phase": 4,
+			"info": {
+				"teams": [
+					{
+						"did": 1,
+						"cid": 1,
+						"pop": 0.4,
+						"abbrev": "FTW",
+						"region": "Fort Wayne",
+						"name": "Pistons",
+						"colors": [
+							"#C0C0C0",
+							"#FF0000",
+							"#ffffff"
+						],
+						"imgURL": "https://i.imgur.com/PPk2Bo8.png",
+						"imgURLSmall": "https://i.ibb.co/Q8zS8Rq/ftw.png",
+						"tid": 12
+					},
+					{
+						"did": 1,
+						"cid": 1,
+						"pop": 2.1,
+						"abbrev": "INJ",
+						"region": "Indianapolis",
+						"name": "Jets",
+						"colors": [
+							"#000080",
+							"#ffffff",
+							"#FF8C00"
+						],
+						"imgURL": "https://i.ibb.co/xJZn4WR/inj.png",
+						"tid": 13
+					},
+					{
+						"did": 1,
+						"cid": 1,
+						"pop": 1.1,
+						"abbrev": "ROC",
+						"region": "Rochester",
+						"name": "Royals",
+						"colors": [
+							"#000080",
+							"#ffffff",
+							"#ffffff"
+						],
+						"imgURL": "https://i.ibb.co/ZX11FkD/roc.png",
+						"tid": 14
+					},
+					{
+						"did": 1,
+						"cid": 1,
+						"pop": 3.7,
+						"abbrev": "MNL",
+						"region": "Minneapolis",
+						"name": "Lakers",
+						"colors": [
+							"#7ba4da",
+							"#fdec08",
+							"#fdec08"
+						],
+						"imgURL": "https://i.ibb.co/sCMnkxb/mnl.png",
+						"imgURLSmall": "https://i.imgur.com/UNcDlzI.png",
+						"tid": 15
+					}
+				],
+				"numProtectedPlayers": 6
+			},
+			"id": 49
+		},
+		{
+			"type": "teamInfo",
+			"season": 1950,
+			"phase": 0,
+			"info": {
+				"tid": 12,
+				"did": 1,
+				"cid": 1
+			},
+			"id": 50
+		},
+		{
+			"type": "teamInfo",
+			"season": 1951,
+			"phase": 0,
+			"info": {
+				"tid": 12,
+				"did": 1,
+				"cid": 1
+			},
+			"id": 51
+		},
+		{
+			"type": "teamInfo",
+			"season": 1958,
+			"phase": 0,
+			"info": {
+				"tid": 12,
+				"did": 1,
+				"cid": 1,
+				"abbrev": "DET",
+				"region": "Detroit",
+				"colors": [
+					"#002f6c",
+					"#d50032",
+					"#ffffff"
+				],
+				"imgURL": "https://i.ibb.co/q7yyk1z/det1958.png",
+				"pop": 4.4
+			},
+			"id": 52
+		},
+		{
+			"type": "teamInfo",
+			"season": 1971,
+			"phase": 0,
+			"info": {
+				"tid": 12,
+				"did": 2,
+				"cid": 1
+			},
+			"id": 53
+		},
+		{
+			"type": "teamInfo",
+			"season": 1972,
+			"phase": 0,
+			"info": {
+				"tid": 12,
+				"did": 2,
+				"cid": 1,
+				"imgURL": "https://i.ibb.co/dPNQXmC/det1972.png"
+			},
+			"id": 54
+		},
+		{
+			"type": "teamInfo",
+			"season": 1976,
+			"phase": 0,
+			"info": {
+				"tid": 12,
+				"did": 2,
+				"cid": 1,
+				"imgURL": "https://i.imgur.com/Pm213ow.png"
+			},
+			"id": 55
+		},
+		{
+			"type": "teamInfo",
+			"season": 1979,
+			"phase": 0,
+			"info": {
+				"tid": 12,
+				"did": 1,
+				"cid": 0
+			},
+			"id": 56
+		},
+		{
+			"type": "teamInfo",
+			"season": 1980,
+			"phase": 0,
+			"info": {
+				"tid": 12,
+				"did": 1,
+				"cid": 0,
+				"colors": [
+					"#003da5",
+					"#d50032",
+					"#ffffff"
+				],
+				"imgURL": "https://i.ibb.co/CwMRLbn/det1980.png"
+			},
+			"id": 57
+		},
+		{
+			"type": "teamInfo",
+			"season": 1997,
+			"phase": 0,
+			"info": {
+				"tid": 12,
+				"did": 1,
+				"cid": 0,
+				"colors": [
+					"#006271",
+					"#ffffff",
+					"#ffa400"
+				],
+				"imgURL": "https://i.ibb.co/f1cc1CT/det1997.png",
+				"imgURLSmall": "https://i.imgur.com/pH7NHj4.png"
+			},
+			"id": 58
+		},
+		{
+			"type": "teamInfo",
+			"season": 2002,
+			"phase": 0,
+			"info": {
+				"tid": 12,
+				"did": 1,
+				"cid": 0,
+				"imgURL": "https://i.ibb.co/0cmFqkq/det2002.png",
+				"imgURLSmall": "https://i.imgur.com/LhaHMPH.png"
+			},
+			"id": 59
+		},
+		{
+			"type": "teamInfo",
+			"season": 2005,
+			"phase": 0,
+			"info": {
+				"tid": 12,
+				"did": 1,
+				"cid": 0
+			},
+			"id": 60
+		},
+		{
+			"type": "teamInfo",
+			"season": 2006,
+			"phase": 0,
+			"info": {
+				"tid": 12,
+				"did": 1,
+				"cid": 0,
+				"colors": [
+					"#003DA5",
+					"#D50032",
+					"#041E42"
+				],
+				"imgURL": "https://i.ibb.co/FJ8yCLC/det2006.png",
+				"imgURLSmall": "https://i.imgur.com/9K75oJk.png"
+			},
+			"id": 61
+		},
+		{
+			"type": "teamInfo",
+			"season": 2018,
+			"phase": 0,
+			"info": {
+				"tid": 12,
+				"did": 1,
+				"cid": 0,
+				"imgURL": "https://i.ibb.co/0VbJpVJ/det2018.png",
+				"imgURLSmall": "https://i.imgur.com/XKpV0aX.png"
+			},
+			"id": 62
+		},
+		{
+			"type": "contraction",
+			"season": 1949,
+			"phase": 4,
+			"info": {
+				"tid": 13
+			},
+			"id": 63
+		},
+		{
+			"type": "teamInfo",
+			"season": 1950,
+			"phase": 0,
+			"info": {
+				"tid": 14,
+				"did": 1,
+				"cid": 1
+			},
+			"id": 64
+		},
+		{
+			"type": "teamInfo",
+			"season": 1951,
+			"phase": 0,
+			"info": {
+				"tid": 14,
+				"did": 1,
+				"cid": 1
+			},
+			"id": 65
+		},
+		{
+			"type": "teamInfo",
+			"season": 1958,
+			"phase": 0,
+			"info": {
+				"tid": 14,
+				"did": 1,
+				"cid": 1,
+				"abbrev": "CIN",
+				"region": "Cincinnati",
+				"colors": [
+					"#000080",
+					"#ffffff",
+					"#000080"
+				],
+				"imgURL": "https://i.ibb.co/ZcvBVdB/cin1959.png",
+				"imgURLSmall": "https://i.imgur.com/6bLHhxn.png",
+				"pop": 2.3
+			},
+			"id": 66
+		},
+		{
+			"type": "teamInfo",
+			"season": 1963,
+			"phase": 0,
+			"info": {
+				"tid": 14,
+				"did": 0,
+				"cid": 0
+			},
+			"id": 67
+		},
+		{
+			"type": "teamInfo",
+			"season": 1971,
+			"phase": 0,
+			"info": {
+				"tid": 14,
+				"did": 1,
+				"cid": 0
+			},
+			"id": 68
+		},
+		{
+			"type": "teamInfo",
+			"season": 1972,
+			"phase": 0,
+			"info": {
+				"tid": 14,
+				"did": 1,
+				"cid": 0,
+				"imgURL": "https://i.ibb.co/s23zvPt/cin1972.png",
+				"imgURLSmall": "https://i.imgur.com/6bLHhxn.png"
+			},
+			"id": 69
+		},
+		{
+			"type": "teamInfo",
+			"season": 1973,
+			"phase": 0,
+			"info": {
+				"tid": 14,
+				"did": 2,
+				"cid": 1,
+				"abbrev": "KCO",
+				"region": "Kansas City-Omaha",
+				"name": "Kings",
+				"colors": [
+					"#002f6c",
+					"#ba0c2f",
+					"#ffffff"
+				],
+				"imgURL": "https://i.ibb.co/6R0gpp9/kco.png",
+				"pop": 3.2
+			},
+			"id": 70
+		},
+		{
+			"type": "teamInfo",
+			"season": 1976,
+			"phase": 0,
+			"info": {
+				"tid": 14,
+				"did": 2,
+				"cid": 1,
+				"abbrev": "KCK",
+				"region": "Kansas City",
+				"imgURL": "https://i.imgur.com/PwatZHe.png",
+				"imgURLSmall": "https://i.imgur.com/44XZZFv.png",
+				"pop": 2.2
+			},
+			"id": 71
+		},
+		{
+			"type": "teamInfo",
+			"season": 1986,
+			"phase": 0,
+			"info": {
+				"tid": 14,
+				"did": 2,
+				"cid": 1,
+				"abbrev": "SAC",
+				"region": "Sacramento",
+				"colors": [
+					"#418fde",
+					"#ffffff",
+					"#d50032"
+				],
+				"imgURL": "https://i.imgur.com/Hyf98Du.png",
+				"imgURLSmall": "https://i.imgur.com/w7NTIxf.png",
+				"pop": 2.4
+			},
+			"id": 72
+		},
+		{
+			"type": "teamInfo",
+			"season": 1989,
+			"phase": 0,
+			"info": {
+				"tid": 14,
+				"did": 3,
+				"cid": 1
+			},
+			"id": 73
+		},
+		{
+			"type": "teamInfo",
+			"season": 1991,
+			"phase": 0,
+			"info": {
+				"tid": 14,
+				"did": 3,
+				"cid": 1,
+				"colors": [
+					"#002f6c",
+					"#ffffff",
+					"#d50032"
+				]
+			},
+			"id": 74
+		},
+		{
+			"type": "teamInfo",
+			"season": 1995,
+			"phase": 0,
+			"info": {
+				"tid": 14,
+				"did": 3,
+				"cid": 1,
+				"colors": [
+					"#753bbd",
+					"#cdd6db",
+					"#010101"
+				],
+				"imgURL": "https://i.ibb.co/rpKvJh9/sac1995.png",
+				"imgURLSmall": "https://i.imgur.com/TatJPlx.png"
+			},
+			"id": 75
+		},
+		{
+			"type": "teamInfo",
+			"season": 2005,
+			"phase": 0,
+			"info": {
+				"tid": 14,
+				"did": 5,
+				"cid": 1
+			},
+			"id": 76
+		},
+		{
+			"type": "teamInfo",
+			"season": 2017,
+			"phase": 0,
+			"info": {
+				"tid": 14,
+				"did": 5,
+				"cid": 1,
+				"imgURL": "https://i.imgur.com/WgHr0BH.png",
+				"imgURLSmall": "https://i.imgur.com/qYg12Er.png"
+			},
+			"id": 77
+		},
+		{
+			"type": "teamInfo",
+			"season": 1950,
+			"phase": 0,
+			"info": {
+				"tid": 15,
+				"did": 1,
+				"cid": 1
+			},
+			"id": 78
+		},
+		{
+			"type": "teamInfo",
+			"season": 1951,
+			"phase": 0,
+			"info": {
+				"tid": 15,
+				"did": 1,
+				"cid": 1
+			},
+			"id": 79
+		},
+		{
+			"type": "teamInfo",
+			"season": 1961,
+			"phase": 0,
+			"info": {
+				"tid": 15,
+				"did": 1,
+				"cid": 1,
+				"abbrev": "LAL",
+				"region": "Los Angeles",
+				"colors": [
+					"#004b87",
+					"#ffffff",
+					"#00a9e0"
+				],
+				"imgURL": "https://i.imgur.com/WgEqDAT.png",
+				"imgURLSmall": "https://i.imgur.com/xHqcFHl.png",
+				"pop": 12.9
+			},
+			"id": 80
+		},
+		{
+			"type": "teamInfo",
+			"season": 1966,
+			"phase": 0,
+			"info": {
+				"tid": 15,
+				"did": 1,
+				"cid": 1,
+				"colors": [
+					"#ffc72c",
+					"#582c83",
+					"#582c83"
+				],
+				"imgURL": "https://i.imgur.com/8JngohM.png",
+				"imgURLSmall": "https://i.imgur.com/xHqcFHl.png"
+			},
+			"id": 81
+		},
+		{
+			"type": "teamInfo",
+			"season": 1971,
+			"phase": 0,
+			"info": {
+				"tid": 15,
+				"did": 3,
+				"cid": 1
+			},
+			"id": 82
+		},
+		{
+			"type": "teamInfo",
+			"season": 1972,
+			"phase": 0,
+			"info": {
+				"tid": 15,
+				"did": 3,
+				"cid": 1,
+				"imgURL": "https://i.imgur.com/5rcKfie.png",
+				"imgURLSmall": "https://i.imgur.com/5rcKfie.png"
+			},
+			"id": 83
+		},
+		{
+			"type": "teamInfo",
+			"season": 1976,
+			"phase": 0,
+			"info": {
+				"tid": 15,
+				"did": 3,
+				"cid": 1,
+				"imgURL": "https://i.ibb.co/c3yDsF6/lal1977.png",
+				"imgURLSmall": "https://i.ibb.co/c3yDsF6/lal1977.png"
+			},
+			"id": 84
+		},
+		{
+			"type": "teamInfo",
+			"season": 2000,
+			"phase": 0,
+			"info": {
+				"tid": 15,
+				"did": 3,
+				"cid": 1,
+				"imgURL": "https://i.ibb.co/TbMMKSd/lal2002.png",
+				"imgURLSmall": "https://i.imgur.com/Xwr5PFQ.png"
+			},
+			"id": 85
+		},
+		{
+			"type": "teamInfo",
+			"season": 2005,
+			"phase": 0,
+			"info": {
+				"tid": 15,
+				"did": 5,
+				"cid": 1
+			},
+			"id": 86
+		},
+		{
+			"type": "teamInfo",
+			"season": 2024,
+			"phase": 0,
+			"info": {
+				"tid": 15,
+				"did": 5,
+				"cid": 1,
+				"imgURL": "https://i.imgur.com/ZK6LFWx.png",
+				"imgURLSmall": "https://i.imgur.com/Xwr5PFQ.png"
+			},
+			"id": 87
+		},
+		{
+			"type": "expansionDraft",
+			"season": 1949,
+			"phase": 4,
+			"info": {
+				"teams": [
+					{
+						"did": 1,
+						"cid": 1,
+						"pop": 0.1,
+						"abbrev": "AND",
+						"region": "Anderson",
+						"name": "Packers",
+						"colors": [
+							"#ffffff",
+							"#000080",
+							"#ffffff"
+						],
+						"imgURL": "https://i.ibb.co/Sckm3ws/and.png",
+						"tid": 16
+					},
+					{
+						"did": 1,
+						"cid": 1,
+						"pop": 3,
+						"abbrev": "DNN",
+						"region": "Denver",
+						"name": "Nuggets",
+						"colors": [
+							"#041E42",
+							"#9D2235",
+							"#8B6F4E"
+						],
+						"imgURL": "https://i.ibb.co/WcS9k79/dnn.png",
+						"tid": 17
+					},
+					{
+						"did": 1,
+						"cid": 1,
+						"pop": 2.1,
+						"abbrev": "INO",
+						"region": "Indianapolis",
+						"name": "Olympians",
+						"colors": [
+							"#0000ff",
+							"#ffffff",
+							"#FF0000"
+						],
+						"imgURL": "https://i.ibb.co/wR32M69/ino.png",
+						"tid": 18
+					},
+					{
+						"did": 1,
+						"cid": 1,
+						"pop": 0.4,
+						"abbrev": "TRI",
+						"region": "Tri-Cities",
+						"name": "Black Hawks",
+						"colors": [
+							"#89cff0",
+							"#ffffff",
+							"#000000"
+						],
+						"imgURL": "https://i.ibb.co/zh5Xbm9/tri.png",
+						"tid": 19
+					},
+					{
+						"did": 0,
+						"cid": 0,
+						"pop": 0.7,
+						"abbrev": "SYR",
+						"region": "Syracuse",
+						"name": "Nationals",
+						"colors": [
+							"#d50032",
+							"#002f6c",
+							"#c79969"
+						],
+						"imgURL": "https://i.ibb.co/Vjq68Gy/syr.png",
+						"tid": 20
+					},
+					{
+						"did": 1,
+						"cid": 1,
+						"pop": 0.1,
+						"abbrev": "SHE",
+						"region": "Sheboygan",
+						"name": "Red Skins",
+						"colors": [
+							"#0000ff",
+							"#FF0000",
+							"#FF0000"
+						],
+						"imgURL": "https://i.ibb.co/4Sk4gtc/she.png",
+						"tid": 21
+					},
+					{
+						"did": 1,
+						"cid": 1,
+						"pop": 0.2,
+						"abbrev": "WAT",
+						"region": "Waterloo",
+						"name": "Hawks",
+						"colors": [
+							"#FFDF00",
+							"#89cff0",
+							"#ffffff"
+						],
+						"imgURL": "https://i.ibb.co/PWNSLKn/wat.png",
+						"tid": 22
+					}
+				],
+				"numProtectedPlayers": 3
+			},
+			"id": 88
+		},
+		{
+			"type": "teamInfo",
+			"season": 1950,
+			"phase": 0,
+			"info": {
+				"tid": 16,
+				"did": 2,
+				"cid": 2
+			},
+			"id": 89
+		},
+		{
+			"type": "contraction",
+			"season": 1950,
+			"phase": 4,
+			"info": {
+				"tid": 16
+			},
+			"id": 90
+		},
+		{
+			"type": "teamInfo",
+			"season": 1950,
+			"phase": 0,
+			"info": {
+				"tid": 17,
+				"did": 2,
+				"cid": 2
+			},
+			"id": 91
+		},
+		{
+			"type": "contraction",
+			"season": 1950,
+			"phase": 4,
+			"info": {
+				"tid": 17
+			},
+			"id": 92
+		},
+		{
+			"type": "teamInfo",
+			"season": 1950,
+			"phase": 0,
+			"info": {
+				"tid": 18,
+				"did": 2,
+				"cid": 2
+			},
+			"id": 93
+		},
+		{
+			"type": "teamInfo",
+			"season": 1951,
+			"phase": 0,
+			"info": {
+				"tid": 18,
+				"did": 1,
+				"cid": 1
+			},
+			"id": 94
+		},
+		{
+			"type": "contraction",
+			"season": 1953,
+			"phase": 4,
+			"info": {
+				"tid": 18
+			},
+			"id": 95
+		},
+		{
+			"type": "teamInfo",
+			"season": 1950,
+			"phase": 0,
+			"info": {
+				"tid": 19,
+				"did": 2,
+				"cid": 2
+			},
+			"id": 96
+		},
+		{
+			"type": "teamInfo",
+			"season": 1951,
+			"phase": 0,
+			"info": {
+				"tid": 19,
+				"did": 1,
+				"cid": 1
+			},
+			"id": 97
+		},
+		{
+			"type": "teamInfo",
+			"season": 1952,
+			"phase": 0,
+			"info": {
+				"tid": 19,
+				"did": 1,
+				"cid": 1,
+				"abbrev": "MLH",
+				"region": "Milwaukee",
+				"name": "Hawks",
+				"colors": [
+					"#003da5",
+					"#ffffff",
+					"#003da5"
+				],
+				"imgURL": "https://i.imgur.com/sdYJszK.png",
+				"pop": 1.6
+			},
+			"id": 98
+		},
+		{
+			"type": "teamInfo",
+			"season": 1956,
+			"phase": 0,
+			"info": {
+				"tid": 19,
+				"did": 1,
+				"cid": 1,
+				"abbrev": "STL",
+				"region": "St. Louis",
+				"colors": [
+					"#00008B",
+					"#ffffff",
+					"#000000"
+				],
+				"imgURL": "https://i.ibb.co/Cv1Vvvr/stl1956.png",
+				"pop": 2.8
+			},
+			"id": 99
+		},
+		{
+			"type": "teamInfo",
+			"season": 1958,
+			"phase": 0,
+			"info": {
+				"tid": 19,
+				"did": 1,
+				"cid": 1,
+				"colors": [
+					"#c8102e",
+					"#ffffff",
+					"#002f6c"
+				],
+				"imgURL": "https://i.ibb.co/mSz49hh/stl1958.png",
+				"imgURLSmall": "https://i.imgur.com/gJHN1qc.png"
+			},
+			"id": 100
+		},
+		{
+			"type": "teamInfo",
+			"season": 1969,
+			"phase": 0,
+			"info": {
+				"tid": 19,
+				"did": 1,
+				"cid": 1,
+				"abbrev": "ATL",
+				"region": "Atlanta",
+				"colors": [
+					"#C8102E",
+					"#FFCD00",
+					"#87674F"
+				],
+				"imgURL": "https://i.ibb.co/MR2WyQ2/atl1969.png",
+				"pop": 6.3
+			},
+			"id": 101
+		},
+		{
+			"type": "teamInfo",
+			"season": 1970,
+			"phase": 0,
+			"info": {
+				"tid": 19,
+				"did": 1,
+				"cid": 1,
+				"imgURL": "https://i.ibb.co/V97cTPz/atl1970.png"
+			},
+			"id": 102
+		},
+		{
+			"type": "teamInfo",
+			"season": 1971,
+			"phase": 0,
+			"info": {
+				"tid": 19,
+				"did": 1,
+				"cid": 0,
+				"imgURL": "https://i.imgur.com/womb1in.png",
+				"imgURLSmall": "https://i.ibb.co/sv8bzmK/atl1971.png"
+			},
+			"id": 103
+		},
+		{
+			"type": "teamInfo",
+			"season": 1973,
+			"phase": 0,
+			"info": {
+				"tid": 19,
+				"did": 1,
+				"cid": 0,
+				"imgURL": "https://i.imgur.com/3cWQdf2.png",
+				"imgURLSmall": "https://i.ibb.co/3m1yMXh/atl1973.png"
+			},
+			"id": 104
+		},
+		{
+			"type": "teamInfo",
+			"season": 1996,
+			"phase": 0,
+			"info": {
+				"tid": 19,
+				"did": 1,
+				"cid": 0,
+				"colors": [
+					"#c8102e",
+					"#ffffff",
+					"#fafbfb"
+				],
+				"imgURL": "https://i.ibb.co/gZqcz36/atl1996.png",
+				"imgURLSmall": "https://i.imgur.com/H5yeFsz.png"
+			},
+			"id": 105
+		},
+		{
+			"type": "teamInfo",
+			"season": 1998,
+			"phase": 0,
+			"info": {
+				"tid": 19,
+				"did": 1,
+				"cid": 0,
+				"imgURLSmall": "https://i.imgur.com/OU0lp6f.png"
+			},
+			"id": 106
+		},
+		{
+			"type": "teamInfo",
+			"season": 2005,
+			"phase": 0,
+			"info": {
+				"tid": 19,
+				"did": 2,
+				"cid": 0
+			},
+			"id": 107
+		},
+		{
+			"type": "teamInfo",
+			"season": 2008,
+			"phase": 0,
+			"info": {
+				"tid": 19,
+				"did": 2,
+				"cid": 0,
+				"colors": [
+					"#0c2340",
+					"#ffffff",
+					"#c8102e"
+				],
+				"imgURL": "https://i.imgur.com/ZNYnFOt.png",
+				"imgURLSmall": "https://i.imgur.com/bWZVwuP.png"
+			},
+			"id": 108
+		},
+		{
+			"type": "teamInfo",
+			"season": 2016,
+			"phase": 0,
+			"info": {
+				"tid": 19,
+				"did": 2,
+				"cid": 0,
+				"colors": [
+					"#e03a3e",
+					"#C1D32F",
+					"#26282A"
+				],
+				"imgURL": "https://i.ibb.co/cwqs7TY/atl2016.png",
+				"imgURLSmall": "https://i.imgur.com/bFOmyEh.png"
+			},
+			"id": 109
+		},
+		{
+			"type": "teamInfo",
+			"season": 2021,
+			"phase": 0,
+			"info": {
+				"tid": 19,
+				"did": 2,
+				"cid": 0,
+				"colors": [
+					"#c8102e",
+					"#ffffff",
+					"#fdb927"
+				],
+				"imgURL": "https://i.imgur.com/i1TZWrw.png",
+				"imgURLSmall": "https://i.imgur.com/bFOmyEh.png"
+			},
+			"id": 110
+		},
+		{
+			"type": "teamInfo",
+			"season": 1950,
+			"phase": 0,
+			"info": {
+				"tid": 20,
+				"did": 0,
+				"cid": 0
+			},
+			"id": 111
+		},
+		{
+			"type": "teamInfo",
+			"season": 1951,
+			"phase": 0,
+			"info": {
+				"tid": 20,
+				"did": 0,
+				"cid": 0
+			},
+			"id": 112
+		},
+		{
+			"type": "teamInfo",
+			"season": 1964,
+			"phase": 0,
+			"info": {
+				"tid": 20,
+				"did": 0,
+				"cid": 0,
+				"abbrev": "PHI",
+				"region": "Philadelphia",
+				"name": "76ers",
+				"colors": [
+					"#002F6C",
+					"#D50032",
+					"#ffffff"
+				],
+				"imgURL": "https://i.imgur.com/RFOQQ7d.png",
+				"pop": 6.2
+			},
+			"id": 113
+		},
+		{
+			"type": "teamInfo",
+			"season": 1971,
+			"phase": 0,
+			"info": {
+				"tid": 20,
+				"did": 0,
+				"cid": 0
+			},
+			"id": 114
+		},
+		{
+			"type": "teamInfo",
+			"season": 1977,
+			"phase": 0,
+			"info": {
+				"tid": 20,
+				"did": 0,
+				"cid": 0,
+				"colors": [
+					"#d50032",
+					"#ffffff",
+					"#002f6c"
+				],
+				"imgURL": "https://i.ibb.co/pPyzvT6/phi1977.png"
+			},
+			"id": 115
+		},
+		{
+			"type": "teamInfo",
+			"season": 1998,
+			"phase": 0,
+			"info": {
+				"tid": 20,
+				"did": 0,
+				"cid": 0,
+				"colors": [
+					"#006bb6",
+					"#D50032",
+					"#BB9754"
+				],
+				"imgURL": "https://i.ibb.co/gtn83VM/phi1998.png",
+				"imgURLSmall": "https://i.imgur.com/6qeIpbD.png"
+			},
+			"id": 116
+		},
+		{
+			"type": "teamInfo",
+			"season": 2005,
+			"phase": 0,
+			"info": {
+				"tid": 20,
+				"did": 0,
+				"cid": 0
+			},
+			"id": 117
+		},
+		{
+			"type": "teamInfo",
+			"season": 2010,
+			"phase": 0,
+			"info": {
+				"tid": 20,
+				"did": 0,
+				"cid": 0,
+				"colors": [
+					"#d50032",
+					"#ffffff",
+					"#003da5"
+				],
+				"imgURL": "https://i.ibb.co/74k5HBY/phi2010.png",
+				"imgURLSmall": "https://i.ibb.co/pPyzvT6/phi1977.png"
+			},
+			"id": 118
+		},
+		{
+			"type": "teamInfo",
+			"season": 2016,
+			"phase": 0,
+			"info": {
+				"tid": 20,
+				"did": 0,
+				"cid": 0,
+				"colors": [
+					"#006bb6",
+					"#ed174c",
+					"#002B5C"
+				],
+				"imgURL": "https://i.ibb.co/R2g6nkB/phi2016.png",
+				"imgURLSmall": "https://i.imgur.com/Paxjuko.png"
+			},
+			"id": 119
+		},
+		{
+			"type": "teamInfo",
+			"season": 1950,
+			"phase": 0,
+			"info": {
+				"tid": 21,
+				"did": 2,
+				"cid": 2
+			},
+			"id": 120
+		},
+		{
+			"type": "contraction",
+			"season": 1950,
+			"phase": 4,
+			"info": {
+				"tid": 21
+			},
+			"id": 121
+		},
+		{
+			"type": "teamInfo",
+			"season": 1950,
+			"phase": 0,
+			"info": {
+				"tid": 22,
+				"did": 2,
+				"cid": 2
+			},
+			"id": 122
+		},
+		{
+			"type": "contraction",
+			"season": 1950,
+			"phase": 4,
+			"info": {
+				"tid": 22
+			},
+			"id": 123
+		},
+		{
+			"type": "expansionDraft",
+			"season": 1961,
+			"phase": 4,
+			"info": {
+				"teams": [
+					{
+						"did": 1,
+						"cid": 1,
+						"pop": 9.4,
+						"abbrev": "CHP",
+						"region": "Chicago",
+						"name": "Packers",
+						"colors": [
+							"#A52A2A",
+							"#f2cf9d",
+							"#ffffff"
+						],
+						"imgURL": "https://i.imgur.com/CirXlth.png",
+						"tid": 23
+					}
+				],
+				"numProtectedPlayers": 11
+			},
+			"id": 124
+		},
+		{
+			"type": "teamInfo",
+			"season": 1963,
+			"phase": 0,
+			"info": {
+				"tid": 23,
+				"did": 1,
+				"cid": 1,
+				"abbrev": "CHZ",
+				"name": "Zephyrs",
+				"colors": [
+					"#f2cf9d",
+					"#ffffff",
+					"#f2cf9d"
+				],
+				"imgURL": "https://i.ibb.co/NYM5kpR/chz.png"
+			},
+			"id": 125
+		},
+		{
+			"type": "teamInfo",
+			"season": 1964,
+			"phase": 0,
+			"info": {
+				"tid": 23,
+				"did": 1,
+				"cid": 1,
+				"abbrev": "BAL",
+				"region": "Baltimore",
+				"name": "Bullets",
+				"colors": [
+					"#0000ff",
+					"#FF0000",
+					"#ffffff"
+				],
+				"imgURL": "https://i.ibb.co/stZp3cS/bal1964.png",
+				"pop": 2.8
+			},
+			"id": 126
+		},
+		{
+			"type": "teamInfo",
+			"season": 1967,
+			"phase": 0,
+			"info": {
+				"tid": 23,
+				"did": 0,
+				"cid": 0
+			},
+			"id": 127
+		},
+		{
+			"type": "teamInfo",
+			"season": 1969,
+			"phase": 0,
+			"info": {
+				"tid": 23,
+				"did": 0,
+				"cid": 0,
+				"imgURL": "https://i.imgur.com/g2AI5gc.png"
+			},
+			"id": 128
+		},
+		{
+			"type": "teamInfo",
+			"season": 1970,
+			"phase": 0,
+			"info": {
+				"tid": 23,
+				"did": 0,
+				"cid": 0,
+				"imgURL": "https://i.ibb.co/T0Nn64p/bal1971.png"
+			},
+			"id": 129
+		},
+		{
+			"type": "teamInfo",
+			"season": 1971,
+			"phase": 0,
+			"info": {
+				"tid": 23,
+				"did": 1,
+				"cid": 0
+			},
+			"id": 130
+		},
+		{
+			"type": "teamInfo",
+			"season": 1972,
+			"phase": 0,
+			"info": {
+				"tid": 23,
+				"did": 1,
+				"cid": 0,
+				"imgURL": "https://i.ibb.co/KxwrBLb/bal1972.png"
+			},
+			"id": 131
+		},
+		{
+			"type": "teamInfo",
+			"season": 1973,
+			"phase": 0,
+			"info": {
+				"tid": 23,
+				"did": 1,
+				"cid": 0,
+				"imgURL": "https://i.ibb.co/bLPHZxK/bal1973.png"
+			},
+			"id": 132
+		},
+		{
+			"type": "teamInfo",
+			"season": 1974,
+			"phase": 0,
+			"info": {
+				"tid": 23,
+				"did": 1,
+				"cid": 0,
+				"abbrev": "CAP",
+				"region": "Capital",
+				"colors": [
+					"#002B5C",
+					"#e31837",
+					"#C4CED4"
+				],
+				"imgURL": "https://i.ibb.co/dJBRT3H/cap.png",
+				"pop": 6.4
+			},
+			"id": 133
+		},
+		{
+			"type": "teamInfo",
+			"season": 1975,
+			"phase": 0,
+			"info": {
+				"tid": 23,
+				"did": 1,
+				"cid": 0,
+				"abbrev": "WSB",
+				"region": "Washington",
+				"imgURL": "https://i.imgur.com/o1eJEIi.png"
+			},
+			"id": 134
+		},
+		{
+			"type": "teamInfo",
+			"season": 1979,
+			"phase": 0,
+			"info": {
+				"tid": 23,
+				"did": 0,
+				"cid": 0
+			},
+			"id": 135
+		},
+		{
+			"type": "teamInfo",
+			"season": 1988,
+			"phase": 0,
+			"info": {
+				"tid": 23,
+				"did": 0,
+				"cid": 0,
+				"colors": [
+					"#d50032",
+					"#003da5",
+					"#ffffff"
+				],
+				"imgURL": "https://i.imgur.com/jo3NUCO.png"
+			},
+			"id": 136
+		},
+		{
+			"type": "teamInfo",
+			"season": 1998,
+			"phase": 0,
+			"info": {
+				"tid": 23,
+				"did": 0,
+				"cid": 0,
+				"abbrev": "WAS",
+				"name": "Wizards",
+				"colors": [
+					"#236192",
+					"#ffffff",
+					"#ba7c5d"
+				],
+				"imgURL": "https://i.imgur.com/g7DHfj1.png",
+				"imgURLSmall": "https://i.imgur.com/EUPml6Q.png"
+			},
+			"id": 137
+		},
+		{
+			"type": "teamInfo",
+			"season": 2005,
+			"phase": 0,
+			"info": {
+				"tid": 23,
+				"did": 2,
+				"cid": 0
+			},
+			"id": 138
+		},
+		{
+			"type": "teamInfo",
+			"season": 2008,
+			"phase": 0,
+			"info": {
+				"tid": 23,
+				"did": 2,
+				"cid": 0,
+				"imgURL": "https://i.imgur.com/uxcYCDH.png",
+				"imgURLSmall": "https://i.ibb.co/X8Ygn2L/was2008.png"
+			},
+			"id": 139
+		},
+		{
+			"type": "teamInfo",
+			"season": 2012,
+			"phase": 0,
+			"info": {
+				"tid": 23,
+				"did": 2,
+				"cid": 0,
+				"colors": [
+					"#c8102e",
+					"#0c2340",
+					"#ffffff"
+				],
+				"imgURL": "https://i.imgur.com/tO4KVj9.png",
+				"imgURLSmall": "https://i.imgur.com/G2OVJTM.png"
+			},
+			"id": 140
+		},
+		{
+			"type": "teamInfo",
+			"season": 2016,
+			"phase": 0,
+			"info": {
+				"tid": 23,
+				"did": 2,
+				"cid": 0,
+				"colors": [
+					"#0c2340",
+					"#c8102e",
+					"#ffffff"
+				],
+				"imgURL": "https://i.ibb.co/K6rZgm4/was2016.png",
+				"imgURLSmall": "https://i.imgur.com/xwDq8vp.png"
+			},
+			"id": 141
+		},
+		{
+			"type": "expansionDraft",
+			"season": 1966,
+			"phase": 4,
+			"info": {
+				"teams": [
+					{
+						"did": 1,
+						"cid": 1,
+						"pop": 9.4,
+						"abbrev": "CHI",
+						"region": "Chicago",
+						"name": "Bulls",
+						"colors": [
+							"#CE1141",
+							"#000000",
+							"#ffffff"
+						],
+						"imgURL": "https://i.imgur.com/Nulx9UE.png",
+						"imgURLSmall": "https://i.imgur.com/T8ApQxR.png",
+						"tid": 24
+					}
+				],
+				"numProtectedPlayers": 11
+			},
+			"id": 142
+		},
+		{
+			"type": "teamInfo",
+			"season": 1971,
+			"phase": 0,
+			"info": {
+				"tid": 24,
+				"did": 2,
+				"cid": 1
+			},
+			"id": 143
+		},
+		{
+			"type": "teamInfo",
+			"season": 1981,
+			"phase": 0,
+			"info": {
+				"tid": 24,
+				"did": 1,
+				"cid": 0
+			},
+			"id": 144
+		},
+		{
+			"type": "teamInfo",
+			"season": 2005,
+			"phase": 0,
+			"info": {
+				"tid": 24,
+				"did": 1,
+				"cid": 0
+			},
+			"id": 145
+		},
+		{
+			"type": "expansionDraft",
+			"season": 1967,
+			"phase": 4,
+			"info": {
+				"teams": [
+					{
+						"did": 1,
+						"cid": 1,
+						"pop": 3.3,
+						"abbrev": "SDR",
+						"region": "San Diego",
+						"name": "Rockets",
+						"colors": [
+							"#008000",
+							"#FFA500",
+							"#0000ff"
+						],
+						"imgURL": "https://i.ibb.co/MN7W3J6/sdr.png",
+						"tid": 25
+					},
+					{
+						"did": 1,
+						"cid": 1,
+						"pop": 4,
+						"abbrev": "SEA",
+						"region": "Seattle",
+						"name": "SuperSonics",
+						"colors": [
+							"#173f35",
+							"#ffffff",
+							"#eaaa00"
+						],
+						"imgURL": "https://i.imgur.com/GahKo8c.png",
+						"imgURLSmall": "https://i.imgur.com/0uVxP7M.png",
+						"tid": 26
+					}
+				],
+				"numProtectedPlayers": 10
+			},
+			"id": 146
+		},
+		{
+			"type": "teamInfo",
+			"season": 1971,
+			"phase": 0,
+			"info": {
+				"tid": 25,
+				"did": 3,
+				"cid": 1
+			},
+			"id": 147
+		},
+		{
+			"type": "teamInfo",
+			"season": 1972,
+			"phase": 0,
+			"info": {
+				"tid": 25,
+				"did": 3,
+				"cid": 1,
+				"abbrev": "HOU",
+				"region": "Houston",
+				"colors": [
+					"#BA0C2F",
+					"#000000",
+					"#FFC72C"
+				],
+				"imgURL": "https://i.ibb.co/CBf9Y3y/hou1972.png",
+				"pop": 7.5
+			},
+			"id": 148
+		},
+		{
+			"type": "teamInfo",
+			"season": 1973,
+			"phase": 0,
+			"info": {
+				"tid": 25,
+				"did": 1,
+				"cid": 0,
+				"colors": [
+					"#ba0c2f",
+					"#ffffff",
+					"#ffc72c"
+				],
+				"imgURL": "https://i.ibb.co/86TvtNF/hou1973.png"
+			},
+			"id": 149
+		},
+		{
+			"type": "teamInfo",
+			"season": 1981,
+			"phase": 0,
+			"info": {
+				"tid": 25,
+				"did": 2,
+				"cid": 1
+			},
+			"id": 150
+		},
+		{
+			"type": "teamInfo",
+			"season": 1996,
+			"phase": 0,
+			"info": {
+				"tid": 25,
+				"did": 2,
+				"cid": 1,
+				"colors": [
+					"#041E42",
+					"#2C7AA1",
+					"#BA0C2F"
+				],
+				"imgURL": "https://i.ibb.co/1KvsR4Z/hou1996.png",
+				"imgURLSmall": "https://i.imgur.com/Snq7hv9.png"
+			},
+			"id": 151
+		},
+		{
+			"type": "teamInfo",
+			"season": 2004,
+			"phase": 0,
+			"info": {
+				"tid": 25,
+				"did": 2,
+				"cid": 1,
+				"colors": [
+					"#CE1141",
+					"#000000",
+					"#C4CED4"
+				],
+				"imgURL": "https://i.imgur.com/xKSlvFo.png",
+				"imgURLSmall": "https://i.ibb.co/8B1sSFL/hou2004.png"
+			},
+			"id": 152
+		},
+		{
+			"type": "teamInfo",
+			"season": 2005,
+			"phase": 0,
+			"info": {
+				"tid": 25,
+				"did": 3,
+				"cid": 1
+			},
+			"id": 153
+		},
+		{
+			"type": "teamInfo",
+			"season": 2020,
+			"phase": 0,
+			"info": {
+				"tid": 25,
+				"did": 3,
+				"cid": 1,
+				"imgURL": "https://i.ibb.co/vVMFz5t/hou2020.png",
+				"imgURLSmall": "https://i.imgur.com/MQCKbK9.png"
+			},
+			"id": 154
+		},
+		{
+			"type": "teamInfo",
+			"season": 1971,
+			"phase": 0,
+			"info": {
+				"tid": 26,
+				"did": 3,
+				"cid": 1,
+				"imgURL": "https://i.ibb.co/sJds3Zb/sea1971.png",
+				"imgURLSmall": "https://i.imgur.com/0uVxP7M.png"
+			},
+			"id": 155
+		},
+		{
+			"type": "teamInfo",
+			"season": 1972,
+			"phase": 0,
+			"info": {
+				"tid": 26,
+				"did": 3,
+				"cid": 1,
+				"imgURL": "https://i.ibb.co/2vY4PPQ/sea1972.png",
+				"imgURLSmall": "https://i.imgur.com/zo1zobQ.png"
+			},
+			"id": 156
+		},
+		{
+			"type": "teamInfo",
+			"season": 1976,
+			"phase": 0,
+			"info": {
+				"tid": 26,
+				"did": 3,
+				"cid": 1,
+				"colors": [
+					"#046a3c",
+					"#fcbe14",
+					"#ffffff"
+				],
+				"imgURL": "https://i.ibb.co/pZSZFzM/sea1976.png",
+				"imgURLSmall": "https://i.imgur.com/SCSQUHD.png"
+			},
+			"id": 157
+		},
+		{
+			"type": "teamInfo",
+			"season": 1996,
+			"phase": 0,
+			"info": {
+				"tid": 26,
+				"did": 3,
+				"cid": 1,
+				"colors": [
+					"#173F35",
+					"#ffffff",
+					"#FFA300"
+				],
+				"imgURL": "https://i.imgur.com/8OiARMs.png",
+				"imgURLSmall": "https://i.imgur.com/aWLgFWk.png"
+			},
+			"id": 158
+		},
+		{
+			"type": "teamInfo",
+			"season": 2002,
+			"phase": 0,
+			"info": {
+				"tid": 26,
+				"did": 3,
+				"cid": 1,
+				"colors": [
+					"#00653a",
+					"#ffc200",
+					"#ffffff"
+				],
+				"imgURL": "https://i.ibb.co/GRhRGpp/sea2002.png",
+				"imgURLSmall": "https://i.imgur.com/ze6GeTC.png"
+			},
+			"id": 159
+		},
+		{
+			"type": "teamInfo",
+			"season": 2005,
+			"phase": 0,
+			"info": {
+				"tid": 26,
+				"did": 4,
+				"cid": 1
+			},
+			"id": 160
+		},
+		{
+			"type": "teamInfo",
+			"season": 2009,
+			"phase": 0,
+			"info": {
+				"tid": 26,
+				"did": 4,
+				"cid": 1,
+				"abbrev": "OKC",
+				"region": "Oklahoma City",
+				"name": "Thunder",
+				"colors": [
+					"#0072ce",
+					"#ffffff",
+					"#ee2737"
+				],
+				"imgURL": "https://i.imgur.com/fsQiSlP.png",
+				"imgURLSmall": "https://i.imgur.com/ifBY6ON.png",
+				"pop": 1.4
+			},
+			"id": 161
+		},
+		{
+			"type": "expansionDraft",
+			"season": 1968,
+			"phase": 4,
+			"info": {
+				"teams": [
+					{
+						"did": 0,
+						"cid": 0,
+						"pop": 1.6,
+						"abbrev": "MIL",
+						"region": "Milwaukee",
+						"name": "Bucks",
+						"colors": [
+							"#009429",
+							"#f7a500",
+							"#ffffff"
+						],
+						"imgURL": "https://i.ibb.co/fMW90hT/mil1969.png",
+						"imgURLSmall": "https://i.imgur.com/plZt0sf.png",
+						"tid": 27
+					},
+					{
+						"did": 1,
+						"cid": 1,
+						"pop": 5,
+						"abbrev": "PHO",
+						"region": "Phoenix",
+						"name": "Suns",
+						"colors": [
+							"#702f8a",
+							"#fa4616",
+							"#ffffff"
+						],
+						"imgURL": "https://i.imgur.com/MWnKsW8.png",
+						"imgURLSmall": "https://i.imgur.com/34fARsB.png",
+						"tid": 28
+					}
+				],
+				"numProtectedPlayers": 10
+			},
+			"id": 162
+		},
+		{
+			"type": "teamInfo",
+			"season": 1971,
+			"phase": 0,
+			"info": {
+				"tid": 27,
+				"did": 2,
+				"cid": 1
+			},
+			"id": 163
+		},
+		{
+			"type": "teamInfo",
+			"season": 1979,
+			"phase": 0,
+			"info": {
+				"tid": 27,
+				"did": 2,
+				"cid": 1,
+				"imgURLSmall": "https://i.imgur.com/D3fwX2X.png"
+			},
+			"id": 164
+		},
+		{
+			"type": "teamInfo",
+			"season": 1981,
+			"phase": 0,
+			"info": {
+				"tid": 27,
+				"did": 1,
+				"cid": 0
+			},
+			"id": 165
+		},
+		{
+			"type": "teamInfo",
+			"season": 1994,
+			"phase": 0,
+			"info": {
+				"tid": 27,
+				"did": 1,
+				"cid": 0,
+				"colors": [
+					"#2c5234",
+					"#ffffff",
+					"#702f8a"
+				],
+				"imgURL": "https://i.ibb.co/XFg1hCx/mil1994.png",
+				"imgURLSmall": "https://i.imgur.com/ii0z55Y.png"
+			},
+			"id": 166
+		},
+		{
+			"type": "teamInfo",
+			"season": 2005,
+			"phase": 0,
+			"info": {
+				"tid": 27,
+				"did": 1,
+				"cid": 0
+			},
+			"id": 167
+		},
+		{
+			"type": "teamInfo",
+			"season": 2007,
+			"phase": 0,
+			"info": {
+				"tid": 27,
+				"did": 1,
+				"cid": 0,
+				"colors": [
+					"#2c5234",
+					"#ffffff",
+					"#a6192e"
+				],
+				"imgURL": "https://i.ibb.co/m5w3zh8/mil2007.png",
+				"imgURLSmall": "https://i.imgur.com/QmfBn7p.png"
+			},
+			"id": 168
+		},
+		{
+			"type": "teamInfo",
+			"season": 2016,
+			"phase": 0,
+			"info": {
+				"tid": 27,
+				"did": 1,
+				"cid": 0,
+				"colors": [
+					"#00471B",
+					"#EEE1C6",
+					"#0077c0"
+				],
+				"imgURL": "https://i.ibb.co/Mp15xCq/mil2016.png",
+				"imgURLSmall": "https://i.imgur.com/tg53Wze.png"
+			},
+			"id": 169
+		},
+		{
+			"type": "teamInfo",
+			"season": 1971,
+			"phase": 0,
+			"info": {
+				"tid": 28,
+				"did": 2,
+				"cid": 1
+			},
+			"id": 170
+		},
+		{
+			"type": "teamInfo",
+			"season": 1973,
+			"phase": 0,
+			"info": {
+				"tid": 28,
+				"did": 3,
+				"cid": 1
+			},
+			"id": 171
+		},
+		{
+			"type": "teamInfo",
+			"season": 1993,
+			"phase": 0,
+			"info": {
+				"tid": 28,
+				"did": 3,
+				"cid": 1,
+				"colors": [
+					"#5f249f",
+					"#ffffff",
+					"#fe5000"
+				],
+				"imgURL": "https://i.ibb.co/n1QPYt5/pho1993.png",
+				"imgURLSmall": "https://i.imgur.com/YungQG0.png"
+			},
+			"id": 172
+		},
+		{
+			"type": "teamInfo",
+			"season": 2001,
+			"phase": 0,
+			"info": {
+				"tid": 28,
+				"did": 3,
+				"cid": 1,
+				"imgURL": "https://i.ibb.co/my7pwcK/pho2001.png",
+				"imgURLSmall": "https://i.imgur.com/cGledDK.png"
+			},
+			"id": 173
+		},
+		{
+			"type": "teamInfo",
+			"season": 2005,
+			"phase": 0,
+			"info": {
+				"tid": 28,
+				"did": 5,
+				"cid": 1
+			},
+			"id": 174
+		},
+		{
+			"type": "teamInfo",
+			"season": 2014,
+			"phase": 0,
+			"info": {
+				"tid": 28,
+				"did": 5,
+				"cid": 1,
+				"colors": [
+					"#1d1160",
+					"#e56020",
+					"#000000"
+				],
+				"imgURL": "https://i.imgur.com/hyi60nj.png",
+				"imgURLSmall": "https://i.imgur.com/UwbWcAg.png"
+			},
+			"id": 175
+		},
+		{
+			"type": "expansionDraft",
+			"season": 1970,
+			"phase": 4,
+			"info": {
+				"teams": [
+					{
+						"did": 0,
+						"cid": 0,
+						"pop": 2.1,
+						"abbrev": "CLE",
+						"region": "Cleveland",
+						"name": "Cavaliers",
+						"colors": [
+							"#76232f",
+							"#ffa400",
+							"#ffa400"
+						],
+						"imgURL": "https://i.ibb.co/jwrfQzF/cle1971.png",
+						"imgURLSmall": "https://i.imgur.com/tBJcYD7.png",
+						"tid": 29
+					},
+					{
+						"did": 0,
+						"cid": 0,
+						"pop": 1.1,
+						"abbrev": "BUF",
+						"region": "Buffalo",
+						"name": "Braves",
+						"colors": [
+							"#002f6c",
+							"#daaa00",
+							"#d50032"
+						],
+						"imgURL": "https://i.imgur.com/cNE59IX.png",
+						"imgURLSmall": "https://i.imgur.com/cFrkZ5i.png",
+						"tid": 30
+					},
+					{
+						"did": 1,
+						"cid": 1,
+						"pop": 2.5,
+						"abbrev": "POR",
+						"region": "Portland",
+						"name": "Trail Blazers",
+						"colors": [
+							"#ba0c2f",
+							"#ffffff",
+							"#000000"
+						],
+						"imgURL": "https://i.imgur.com/MTiHNr2.png",
+						"imgURLSmall": "https://i.imgur.com/iiI420p.png",
+						"tid": 31
+					}
+				],
+				"numProtectedPlayers": 10
+			},
+			"id": 176
+		},
+		{
+			"type": "teamInfo",
+			"season": 1971,
+			"phase": 0,
+			"info": {
+				"tid": 29,
+				"did": 1,
+				"cid": 0
+			},
+			"id": 177
+		},
+		{
+			"type": "teamInfo",
+			"season": 1984,
+			"phase": 0,
+			"info": {
+				"tid": 29,
+				"did": 1,
+				"cid": 0,
+				"colors": [
+					"#e03c31",
+					"#ffffff",
+					"#00205b"
+				],
+				"imgURL": "https://i.ibb.co/z7zvmQx/cle1984.png",
+				"imgURLSmall": "https://i.imgur.com/tBJcYD7.png"
+			},
+			"id": 178
+		},
+		{
+			"type": "teamInfo",
+			"season": 1995,
+			"phase": 0,
+			"info": {
+				"tid": 29,
+				"did": 1,
+				"cid": 0,
+				"colors": [
+					"#010101",
+					"#e35205",
+					"#5c88da"
+				],
+				"imgURL": "https://i.ibb.co/z6z89y0/cle1995.png",
+				"imgURLSmall": "https://i.imgur.com/ZvhgmdW.png"
+			},
+			"id": 179
+		},
+		{
+			"type": "teamInfo",
+			"season": 2004,
+			"phase": 0,
+			"info": {
+				"tid": 29,
+				"did": 1,
+				"cid": 0,
+				"colors": [
+					"#860038",
+					"#8C714C",
+					"#041E42"
+				],
+				"imgURL": "https://i.ibb.co/K9bDndh/cle2004.png",
+				"imgURLSmall": "https://i.imgur.com/kTrSD2E.png"
+			},
+			"id": 180
+		},
+		{
+			"type": "teamInfo",
+			"season": 2005,
+			"phase": 0,
+			"info": {
+				"tid": 29,
+				"did": 1,
+				"cid": 0
+			},
+			"id": 181
+		},
+		{
+			"type": "teamInfo",
+			"season": 2011,
+			"phase": 0,
+			"info": {
+				"tid": 29,
+				"did": 1,
+				"cid": 0,
+				"colors": [
+					"#860038",
+					"#041E42",
+					"#FDBB30"
+				],
+				"imgURL": "https://i.ibb.co/5hBpjT7/cle2011.png",
+				"imgURLSmall": "https://i.imgur.com/VXYRGJ5.png"
+			},
+			"id": 182
+		},
+		{
+			"type": "teamInfo",
+			"season": 2018,
+			"phase": 0,
+			"info": {
+				"tid": 29,
+				"did": 1,
+				"cid": 0,
+				"imgURL": "https://i.ibb.co/b3sKtb1/cle2018.png",
+				"imgURLSmall": "https://i.imgur.com/VXYRGJ5.png"
+			},
+			"id": 183
+		},
+		{
+			"type": "teamInfo",
+			"season": 2023,
+			"phase": 0,
+			"info": {
+				"tid": 29,
+				"did": 1,
+				"cid": 0,
+				"colors": [
+					"#72253d",
+					"#b4975a",
+					"#b4975a"
+				],
+				"imgURL": "https://i.imgur.com/9xq1vir.png",
+				"imgURLSmall": "https://i.imgur.com/0SjE4B4.png"
+			},
+			"id": 184
+		},
+		{
+			"type": "teamInfo",
+			"season": 1971,
+			"phase": 0,
+			"info": {
+				"tid": 30,
+				"did": 0,
+				"cid": 0
+			},
+			"id": 185
+		},
+		{
+			"type": "teamInfo",
+			"season": 1972,
+			"phase": 0,
+			"info": {
+				"tid": 30,
+				"did": 0,
+				"cid": 0,
+				"colors": [
+					"#ff8200",
+					"#000000",
+					"#ffffff"
+				],
+				"imgURL": "https://i.imgur.com/WUMBZkx.png",
+				"imgURLSmall": "https://i.imgur.com/GUXavw8.png"
+			},
+			"id": 186
+		},
+		{
+			"type": "teamInfo",
+			"season": 1974,
+			"phase": 0,
+			"info": {
+				"tid": 30,
+				"did": 0,
+				"cid": 0,
+				"colors": [
+					"#418FDE",
+					"#ffffff",
+					"#ffffff"
+				],
+				"imgURL": "https://i.ibb.co/9vWHPt1/buf1972.png",
+				"imgURLSmall": "https://i.imgur.com/wNH9k85.png"
+			},
+			"id": 187
+		},
+		{
+			"type": "teamInfo",
+			"season": 1979,
+			"phase": 0,
+			"info": {
+				"tid": 30,
+				"did": 3,
+				"cid": 1,
+				"abbrev": "SDC",
+				"region": "San Diego",
+				"name": "Clippers",
+				"colors": [
+					"#69b3e7",
+					"#ffffff",
+					"#fa4616"
+				],
+				"imgURL": "https://i.ibb.co/k8ZhR6c/sdc1979.png",
+				"pop": 3.3
+			},
+			"id": 188
+		},
+		{
+			"type": "teamInfo",
+			"season": 1983,
+			"phase": 0,
+			"info": {
+				"tid": 30,
+				"did": 3,
+				"cid": 1,
+				"imgURL": "https://i.ibb.co/8xxcf9q/sdc1983.png"
+			},
+			"id": 189
+		},
+		{
+			"type": "teamInfo",
+			"season": 1985,
+			"phase": 0,
+			"info": {
+				"tid": 30,
+				"did": 3,
+				"cid": 1,
+				"abbrev": "LAC",
+				"region": "Los Angeles",
+				"colors": [
+					"#d50032",
+					"#ffffff",
+					"#003da5"
+				],
+				"imgURL": "https://i.ibb.co/fYdKZCH/lac1985.png",
+				"pop": 12.9
+			},
+			"id": 190
+		},
+		{
+			"type": "teamInfo",
+			"season": 1991,
+			"phase": 0,
+			"info": {
+				"tid": 30,
+				"did": 3,
+				"cid": 1,
+				"imgURLSmall": "https://i.imgur.com/J5AWKqF.png"
+			},
+			"id": 191
+		},
+		{
+			"type": "teamInfo",
+			"season": 2005,
+			"phase": 0,
+			"info": {
+				"tid": 30,
+				"did": 5,
+				"cid": 1
+			},
+			"id": 192
+		},
+		{
+			"type": "teamInfo",
+			"season": 2011,
+			"phase": 0,
+			"info": {
+				"tid": 30,
+				"did": 5,
+				"cid": 1,
+				"imgURL": "https://i.ibb.co/gm7B3vm/lac2011.png",
+				"imgURLSmall": "https://i.imgur.com/Q8q6Ebm.png"
+			},
+			"id": 193
+		},
+		{
+			"type": "teamInfo",
+			"season": 2016,
+			"phase": 0,
+			"info": {
+				"tid": 30,
+				"did": 5,
+				"cid": 1,
+				"imgURL": "https://i.imgur.com/3WRLhVA.png",
+				"imgURLSmall": "https://i.imgur.com/fm3b2SJ.png"
+			},
+			"id": 194
+		},
+		{
+			"type": "teamInfo",
+			"season": 2018,
+			"phase": 0,
+			"info": {
+				"tid": 30,
+				"did": 5,
+				"cid": 1,
+				"colors": [
+					"#1D4289",
+					"#ffffff",
+					"#C8102E"
+				]
+			},
+			"id": 195
+		},
+		{
+			"type": "teamInfo",
+			"season": 2025,
+			"phase": 0,
+			"info": {
+				"tid": 30,
+				"did": 5,
+				"cid": 1,
+				"colors": [
+					"#12173F",
+					"#ffffff",
+					"#C8102E"
+				],
+				"imgURL": "https://i.imgur.com/3M071Cv.png",
+				"imgURLSmall": "https://i.imgur.com/e3E4uIY.png"
+			},
+			"id": 196
+		},
+		{
+			"type": "teamInfo",
+			"season": 1971,
+			"phase": 0,
+			"info": {
+				"tid": 31,
+				"did": 3,
+				"cid": 1
+			},
+			"id": 197
+		},
+		{
+			"type": "teamInfo",
+			"season": 1991,
+			"phase": 0,
+			"info": {
+				"tid": 31,
+				"did": 3,
+				"cid": 1,
+				"colors": [
+					"#010101",
+					"#ffffff",
+					"#c8102e"
+				],
+				"imgURL": "https://i.imgur.com/cHa0VSB.png",
+				"imgURLSmall": "https://i.ibb.co/Cm2ktkS/por1991.png"
+			},
+			"id": 198
+		},
+		{
+			"type": "teamInfo",
+			"season": 2003,
+			"phase": 0,
+			"info": {
+				"tid": 31,
+				"did": 3,
+				"cid": 1,
+				"imgURL": "https://i.imgur.com/704NUce.png",
+				"imgURLSmall": "https://i.ibb.co/8sxKyYC/por2003.png"
+			},
+			"id": 199
+		},
+		{
+			"type": "teamInfo",
+			"season": 2004,
+			"phase": 0,
+			"info": {
+				"tid": 31,
+				"did": 3,
+				"cid": 1,
+				"imgURL": "https://i.ibb.co/N6zFdkL/por2004.png",
+				"imgURLSmall": "https://i.ibb.co/8sxKyYC/por2003.png"
+			},
+			"id": 200
+		},
+		{
+			"type": "teamInfo",
+			"season": 2005,
+			"phase": 0,
+			"info": {
+				"tid": 31,
+				"did": 4,
+				"cid": 1,
+				"imgURL": "https://i.ibb.co/VxPZw3V/por2005.png",
+				"imgURLSmall": "https://i.ibb.co/8sxKyYC/por2003.png"
+			},
+			"id": 201
+		},
+		{
+			"type": "teamInfo",
+			"season": 2018,
+			"phase": 0,
+			"info": {
+				"tid": 31,
+				"did": 4,
+				"cid": 1,
+				"imgURL": "https://i.imgur.com/IfjmjFJ.png",
+				"imgURLSmall": "https://i.imgur.com/u1iRngy.png"
+			},
+			"id": 202
+		},
+		{
+			"type": "expansionDraft",
+			"season": 1974,
+			"phase": 4,
+			"info": {
+				"teams": [
+					{
+						"did": 1,
+						"cid": 0,
+						"pop": 1.3,
+						"abbrev": "NOJ",
+						"region": "New Orleans",
+						"name": "Jazz",
+						"colors": [
+							"#572c5f",
+							"#ffffff",
+							"#ffc72c"
+						],
+						"imgURL": "https://i.ibb.co/894qpF7/noj.png",
+						"imgURLSmall": "https://i.imgur.com/pBaFzX7.png",
+						"tid": 32
+					}
+				],
+				"numProtectedPlayers": 12
+			},
+			"id": 203
+		},
+		{
+			"type": "teamInfo",
+			"season": 1980,
+			"phase": 0,
+			"info": {
+				"tid": 32,
+				"did": 2,
+				"cid": 1,
+				"abbrev": "UTA",
+				"region": "Utah",
+				"colors": [
+					"#572c5f",
+					"#ffc72c",
+					"#046a38"
+				],
+				"imgURL": "https://i.imgur.com/Lu0cdvQ.png",
+				"imgURLSmall": "https://i.imgur.com/pBaFzX7.png"
+			},
+			"id": 204
+		},
+		{
+			"type": "teamInfo",
+			"season": 1997,
+			"phase": 0,
+			"info": {
+				"tid": 32,
+				"did": 2,
+				"cid": 1,
+				"colors": [
+					"#753bbd",
+					"#ffffff",
+					"#c27069"
+				],
+				"imgURL": "https://i.ibb.co/qn3Wff2/uta1997.png",
+				"imgURLSmall": "https://i.imgur.com/I4cN2oe.png"
+			},
+			"id": 205
+		},
+		{
+			"type": "teamInfo",
+			"season": 2005,
+			"phase": 0,
+			"info": {
+				"tid": 32,
+				"did": 4,
+				"cid": 1,
+				"colors": [
+					"#0a2f50",
+					"#4b9fe2",
+					"#4b9fe2"
+				],
+				"imgURL": "https://i.ibb.co/bQRz6R6/uta2005.png",
+				"imgURLSmall": "https://i.imgur.com/kTwZPrN.png"
+			},
+			"id": 206
+		},
+		{
+			"type": "teamInfo",
+			"season": 2011,
+			"phase": 0,
+			"info": {
+				"tid": 32,
+				"did": 4,
+				"cid": 1,
+				"colors": [
+					"#0a2f50",
+					"#ffb321",
+					"#ffb321"
+				],
+				"imgURL": "https://i.ibb.co/PgF77W8/uta2011.png",
+				"imgURLSmall": "https://i.imgur.com/Fpp41Ai.png"
+			},
+			"id": 207
+		},
+		{
+			"type": "teamInfo",
+			"season": 2017,
+			"phase": 0,
+			"info": {
+				"tid": 32,
+				"did": 4,
+				"cid": 1,
+				"imgURL": "https://i.imgur.com/H3ZIR44.png",
+				"imgURLSmall": "https://i.imgur.com/MUB0Jcx.png"
+			},
+			"id": 208
+		},
+		{
+			"type": "teamInfo",
+			"season": 2023,
+			"phase": 0,
+			"info": {
+				"tid": 32,
+				"did": 4,
+				"cid": 1,
+				"colors": [
+					"#fff21f",
+					"#000000",
+					"#000000"
+				],
+				"imgURL": "https://i.imgur.com/jWkcCCN.png",
+				"imgURLSmall": "https://i.imgur.com/m1XTrDh.png"
+			},
+			"id": 209
+		},
+		{
+			"type": "expansionDraft",
+			"season": 1976,
+			"phase": 4,
+			"info": {
+				"teams": [
+					{
+						"did": 0,
+						"cid": 0,
+						"pop": 20.1,
+						"abbrev": "NYN",
+						"region": "New York",
+						"name": "Nets",
+						"colors": [
+							"#FF0000",
+							"#ffffff",
+							"#0000ff"
+						],
+						"imgURL": "https://i.ibb.co/3TJRd0b/nyn.png",
+						"tid": 33
+					},
+					{
+						"did": 2,
+						"cid": 1,
+						"pop": 3,
+						"abbrev": "DEN",
+						"region": "Denver",
+						"name": "Nuggets",
+						"colors": [
+							"#041E42",
+							"#9D2235",
+							"#8B6F4E"
+						],
+						"imgURL": "https://i.imgur.com/Z1xBxsd.png",
+						"imgURLSmall": "https://i.ibb.co/9VGgW5L/den1977.png",
+						"tid": 34
+					},
+					{
+						"did": 2,
+						"cid": 1,
+						"pop": 2.1,
+						"abbrev": "IND",
+						"region": "Indiana",
+						"name": "Pacers",
+						"colors": [
+							"#002D62",
+							"#FDBB30",
+							"#BEC0C2"
+						],
+						"imgURL": "https://i.imgur.com/lImXIdy.png",
+						"imgURLSmall": "https://i.imgur.com/6Lxrsh8.png",
+						"tid": 35
+					},
+					{
+						"did": 1,
+						"cid": 0,
+						"pop": 2.7,
+						"abbrev": "SAS",
+						"region": "San Antonio",
+						"name": "Spurs",
+						"colors": [
+							"#010101",
+							"#ffffff",
+							"#cdd6db"
+						],
+						"imgURL": "https://i.imgur.com/nmTndNU.png",
+						"imgURLSmall": "https://i.imgur.com/sXQ72tS.png",
+						"tid": 36
+					}
+				],
+				"numProtectedPlayers": 9
+			},
+			"id": 210
+		},
+		{
+			"type": "teamInfo",
+			"season": 1978,
+			"phase": 0,
+			"info": {
+				"tid": 33,
+				"did": 0,
+				"cid": 0,
+				"abbrev": "NJN",
+				"region": "New Jersey",
+				"colors": [
+					"#002A60",
+					"#CD1041",
+					"#777D84"
+				],
+				"imgURL": "https://i.ibb.co/ydXvVFX/njn1978.png"
+			},
+			"id": 211
+		},
+		{
+			"type": "teamInfo",
+			"season": 1979,
+			"phase": 0,
+			"info": {
+				"tid": 33,
+				"did": 0,
+				"cid": 0,
+				"imgURL": "https://i.ibb.co/TYsP79C/njn1979.png"
+			},
+			"id": 212
+		},
+		{
+			"type": "teamInfo",
+			"season": 1991,
+			"phase": 0,
+			"info": {
+				"tid": 33,
+				"did": 0,
+				"cid": 0,
+				"imgURL": "https://i.ibb.co/wJBbVCD/njn1991.png"
+			},
+			"id": 213
+		},
+		{
+			"type": "teamInfo",
+			"season": 1998,
+			"phase": 0,
+			"info": {
+				"tid": 33,
+				"did": 0,
+				"cid": 0,
+				"colors": [
+					"#041e42",
+					"#cdd6db",
+					"#ba0c2f"
+				],
+				"imgURL": "https://i.ibb.co/dfNzgn0/njn1998.png",
+				"imgURLSmall": "https://i.imgur.com/fRMKupn.png"
+			},
+			"id": 214
+		},
+		{
+			"type": "teamInfo",
+			"season": 2005,
+			"phase": 0,
+			"info": {
+				"tid": 33,
+				"did": 0,
+				"cid": 0
+			},
+			"id": 215
+		},
+		{
+			"type": "teamInfo",
+			"season": 2013,
+			"phase": 0,
+			"info": {
+				"tid": 33,
+				"did": 0,
+				"cid": 0,
+				"abbrev": "BRK",
+				"region": "Brooklyn",
+				"colors": [
+					"#000000",
+					"#ffffff",
+					"#ffffff"
+				],
+				"imgURL": "https://i.imgur.com/lDrufi8.png",
+				"imgURLSmall": "https://i.ibb.co/mXdMc4d/brk2013.png"
+			},
+			"id": 216
+		},
+		{
+			"type": "teamInfo",
+			"season": 1982,
+			"phase": 0,
+			"info": {
+				"tid": 34,
+				"did": 2,
+				"cid": 1,
+				"colors": [
+					"#041e42",
+					"#ffffff",
+					"#046a38"
+				],
+				"imgURL": "https://i.ibb.co/PZW4zFn/den1982.png",
+				"imgURLSmall": "https://i.imgur.com/Fr78pVI.png"
+			},
+			"id": 217
+		},
+		{
+			"type": "teamInfo",
+			"season": 1994,
+			"phase": 0,
+			"info": {
+				"tid": 34,
+				"did": 2,
+				"cid": 1,
+				"colors": [
+					"#041e42",
+					"#c79969",
+					"#9d2235"
+				],
+				"imgURL": "https://i.ibb.co/8XM9VgV/den1994.png",
+				"imgURLSmall": "https://i.imgur.com/XI8AhiJ.png"
+			},
+			"id": 218
+		},
+		{
+			"type": "teamInfo",
+			"season": 2004,
+			"phase": 0,
+			"info": {
+				"tid": 34,
+				"did": 2,
+				"cid": 1,
+				"colors": [
+					"#00285E",
+					"#418FDE",
+					"#FDB927"
+				],
+				"imgURL": "https://i.ibb.co/3d6t9tv/den2004.png",
+				"imgURLSmall": "https://i.imgur.com/Y4GnULv.png"
+			},
+			"id": 219
+		},
+		{
+			"type": "teamInfo",
+			"season": 2005,
+			"phase": 0,
+			"info": {
+				"tid": 34,
+				"did": 4,
+				"cid": 1
+			},
+			"id": 220
+		},
+		{
+			"type": "teamInfo",
+			"season": 2009,
+			"phase": 0,
+			"info": {
+				"tid": 34,
+				"did": 4,
+				"cid": 1,
+				"imgURL": "https://i.ibb.co/yNyk75c/den2009.png",
+				"imgURLSmall": "https://i.imgur.com/Htmec3l.png"
+			},
+			"id": 221
+		},
+		{
+			"type": "teamInfo",
+			"season": 2019,
+			"phase": 0,
+			"info": {
+				"tid": 34,
+				"did": 4,
+				"cid": 1,
+				"colors": [
+					"#0E2240",
+					"#FEC524",
+					"#8B2131"
+				],
+				"imgURL": "https://i.ibb.co/Qv0PSf2/den2019.png",
+				"imgURLSmall": "https://i.imgur.com/xyFKqng.png"
+			},
+			"id": 222
+		},
+		{
+			"type": "teamInfo",
+			"season": 1980,
+			"phase": 0,
+			"info": {
+				"tid": 35,
+				"did": 1,
+				"cid": 0
+			},
+			"id": 223
+		},
+		{
+			"type": "teamInfo",
+			"season": 1991,
+			"phase": 0,
+			"info": {
+				"tid": 35,
+				"did": 1,
+				"cid": 0,
+				"imgURL": "https://i.imgur.com/bga5d2C.png",
+				"imgURLSmall": "https://i.imgur.com/xsFGpXM.png"
+			},
+			"id": 224
+		},
+		{
+			"type": "teamInfo",
+			"season": 2005,
+			"phase": 0,
+			"info": {
+				"tid": 35,
+				"did": 1,
+				"cid": 0
+			},
+			"id": 225
+		},
+		{
+			"type": "teamInfo",
+			"season": 2006,
+			"phase": 0,
+			"info": {
+				"tid": 35,
+				"did": 1,
+				"cid": 0,
+				"imgURL": "https://i.imgur.com/EzI4oZC.png",
+				"imgURLSmall": "https://i.imgur.com/g0l7iWq.png"
+			},
+			"id": 226
+		},
+		{
+			"type": "teamInfo",
+			"season": 2018,
+			"phase": 0,
+			"info": {
+				"tid": 35,
+				"did": 1,
+				"cid": 0,
+				"imgURL": "https://i.ibb.co/5cZHSvM/ind2018.png",
+				"imgURLSmall": "https://i.imgur.com/kb9F5EN.png"
+			},
+			"id": 227
+		},
+		{
+			"type": "teamInfo",
+			"season": 1981,
+			"phase": 0,
+			"info": {
+				"tid": 36,
+				"did": 2,
+				"cid": 1
+			},
+			"id": 228
+		},
+		{
+			"type": "teamInfo",
+			"season": 1990,
+			"phase": 0,
+			"info": {
+				"tid": 36,
+				"did": 2,
+				"cid": 1,
+				"imgURL": "https://i.ibb.co/YZWsVDJ/sas1990.png",
+				"imgURLSmall": "https://i.imgur.com/PWVrIQh.png"
+			},
+			"id": 229
+		},
+		{
+			"type": "teamInfo",
+			"season": 2003,
+			"phase": 0,
+			"info": {
+				"tid": 36,
+				"did": 2,
+				"cid": 1,
+				"imgURL": "https://i.ibb.co/QcZsVCs/sas2003.png",
+				"imgURLSmall": "https://i.imgur.com/HSDTN4L.png"
+			},
+			"id": 230
+		},
+		{
+			"type": "teamInfo",
+			"season": 2005,
+			"phase": 0,
+			"info": {
+				"tid": 36,
+				"did": 3,
+				"cid": 1
+			},
+			"id": 231
+		},
+		{
+			"type": "teamInfo",
+			"season": 2018,
+			"phase": 0,
+			"info": {
+				"tid": 36,
+				"did": 3,
+				"cid": 1,
+				"imgURL": "https://i.imgur.com/yXLRt2y.png",
+				"imgURLSmall": "https://i.imgur.com/HSDTN4L.png"
+			},
+			"id": 232
+		},
+		{
+			"type": "expansionDraft",
+			"season": 1980,
+			"phase": 4,
+			"info": {
+				"teams": [
+					{
+						"did": 2,
+						"cid": 1,
+						"pop": 8.1,
+						"abbrev": "DAL",
+						"region": "Dallas",
+						"name": "Mavericks",
+						"colors": [
+							"#002855",
+							"#00843D",
+							"#ffffff"
+						],
+						"imgURL": "https://i.imgur.com/onl5325.png",
+						"imgURLSmall": "https://i.ibb.co/7WtByGJ/dal1981.png",
+						"tid": 37
+					}
+				],
+				"numProtectedPlayers": 12
+			},
+			"id": 233
+		},
+		{
+			"type": "teamInfo",
+			"season": 1994,
+			"phase": 0,
+			"info": {
+				"tid": 37,
+				"did": 2,
+				"cid": 1,
+				"colors": [
+					"#002855",
+					"#ffffff",
+					"#00843d"
+				],
+				"imgURL": "https://i.imgur.com/3gFYWmc.png",
+				"imgURLSmall": "https://i.ibb.co/4Rjb5MM/dal1994.png"
+			},
+			"id": 234
+		},
+		{
+			"type": "teamInfo",
+			"season": 2002,
+			"phase": 0,
+			"info": {
+				"tid": 37,
+				"did": 2,
+				"cid": 1,
+				"colors": [
+					"#00204d",
+					"#adb2b5",
+					"#0062ae"
+				],
+				"imgURL": "https://i.ibb.co/kmfrYFC/dal2002.png",
+				"imgURLSmall": "https://i.imgur.com/mD5QrJK.png"
+			},
+			"id": 235
+		},
+		{
+			"type": "teamInfo",
+			"season": 2005,
+			"phase": 0,
+			"info": {
+				"tid": 37,
+				"did": 3,
+				"cid": 1
+			},
+			"id": 236
+		},
+		{
+			"type": "teamInfo",
+			"season": 2018,
+			"phase": 0,
+			"info": {
+				"tid": 37,
+				"did": 3,
+				"cid": 1,
+				"colors": [
+					"#00538C",
+					"#002B5e",
+					"#B8C4CA"
+				],
+				"imgURL": "https://i.imgur.com/OGDsVKN.png",
+				"imgURLSmall": "https://i.imgur.com/kK4kDaz.png"
+			},
+			"id": 237
+		},
+		{
+			"type": "expansionDraft",
+			"season": 1988,
+			"phase": 4,
+			"info": {
+				"teams": [
+					{
+						"did": 2,
+						"cid": 1,
+						"pop": 6.2,
+						"abbrev": "MIA",
+						"region": "Miami",
+						"name": "Heat",
+						"colors": [
+							"#010101",
+							"#ffffff",
+							"#ba0c2f"
+						],
+						"imgURL": "https://i.imgur.com/22xPMMf.png",
+						"imgURLSmall": "https://i.imgur.com/H3zhapI.png",
+						"tid": 38
+					},
+					{
+						"did": 0,
+						"cid": 0,
+						"pop": 2.8,
+						"abbrev": "CHH",
+						"region": "Charlotte",
+						"name": "Hornets",
+						"colors": [
+							"#00778B",
+							"#ffffff",
+							"#0032a0"
+						],
+						"imgURL": "https://i.ibb.co/fMPCZQD/chh1990.png",
+						"imgURLSmall": "https://i.imgur.com/vEStMWF.png",
+						"tid": 39
+					}
+				],
+				"numProtectedPlayers": 11
+			},
+			"id": 238
+		},
+		{
+			"type": "teamInfo",
+			"season": 1990,
+			"phase": 0,
+			"info": {
+				"tid": 38,
+				"did": 0,
+				"cid": 0
+			},
+			"id": 239
+		},
+		{
+			"type": "teamInfo",
+			"season": 2000,
+			"phase": 0,
+			"info": {
+				"tid": 38,
+				"did": 0,
+				"cid": 0,
+				"colors": [
+					"#98002E",
+					"#F9A01B",
+					"#000000"
+				],
+				"imgURL": "https://i.imgur.com/GpjJXPd.png",
+				"imgURLSmall": "https://i.imgur.com/DIKI6hY.png"
+			},
+			"id": 240
+		},
+		{
+			"type": "teamInfo",
+			"season": 2005,
+			"phase": 0,
+			"info": {
+				"tid": 38,
+				"did": 2,
+				"cid": 0
+			},
+			"id": 241
+		},
+		{
+			"type": "teamInfo",
+			"season": 1990,
+			"phase": 0,
+			"info": {
+				"tid": 39,
+				"did": 2,
+				"cid": 1
+			},
+			"id": 242
+		},
+		{
+			"type": "teamInfo",
+			"season": 1991,
+			"phase": 0,
+			"info": {
+				"tid": 39,
+				"did": 1,
+				"cid": 0
+			},
+			"id": 243
+		},
+		{
+			"type": "teamInfo",
+			"season": 2003,
+			"phase": 0,
+			"info": {
+				"tid": 39,
+				"did": 1,
+				"cid": 0,
+				"abbrev": "NOH",
+				"region": "New Orleans",
+				"colors": [
+					"#1b7bf7",
+					"#ffea00",
+					"#ffffff"
+				],
+				"imgURL": "https://i.ibb.co/hm7MgtM/noh2003.png",
+				"imgURLSmall": "https://i.imgur.com/UiR7uIW.png",
+				"pop": 1.3
+			},
+			"id": 244
+		},
+		{
+			"type": "teamInfo",
+			"season": 2005,
+			"phase": 0,
+			"info": {
+				"tid": 39,
+				"did": 3,
+				"cid": 1
+			},
+			"id": 245
+		},
+		{
+			"type": "teamInfo",
+			"season": 2006,
+			"phase": 0,
+			"info": {
+				"tid": 39,
+				"did": 3,
+				"cid": 1,
+				"abbrev": "NOK",
+				"region": "New Orleans/Oklahoma City",
+				"pop": 2.7
+			},
+			"id": 246
+		},
+		{
+			"type": "teamInfo",
+			"season": 2008,
+			"phase": 0,
+			"info": {
+				"tid": 39,
+				"did": 3,
+				"cid": 1,
+				"abbrev": "NOH",
+				"region": "New Orleans",
+				"pop": 1.3
+			},
+			"id": 247
+		},
+		{
+			"type": "teamInfo",
+			"season": 2009,
+			"phase": 0,
+			"info": {
+				"tid": 39,
+				"did": 3,
+				"cid": 1,
+				"imgURL": "https://i.ibb.co/LPJKL4V/noh2009.png",
+				"imgURLSmall": "https://i.imgur.com/JzYWH5Q.png"
+			},
+			"id": 248
+		},
+		{
+			"type": "teamInfo",
+			"season": 2014,
+			"phase": 0,
+			"info": {
+				"tid": 39,
+				"did": 3,
+				"cid": 1,
+				"abbrev": "NOP",
+				"name": "Pelicans",
+				"colors": [
+					"#0C2340",
+					"#C8102E",
+					"#85714D"
+				],
+				"imgURL": "https://i.imgur.com/vB0C6GZ.png",
+				"imgURLSmall": "https://i.imgur.com/NUWBVXh.png"
+			},
+			"id": 249
+		},
+		{
+			"type": "teamInfo",
+			"season": 2024,
+			"phase": 0,
+			"info": {
+				"tid": 39,
+				"did": 3,
+				"cid": 1,
+				"imgURL": "https://i.imgur.com/eUddr3j.png",
+				"imgURLSmall": "https://i.imgur.com/ysbNihB.png"
+			},
+			"id": 250
+		},
+		{
+			"type": "expansionDraft",
+			"season": 1989,
+			"phase": 4,
+			"info": {
+				"teams": [
+					{
+						"did": 2,
+						"cid": 1,
+						"pop": 3.7,
+						"abbrev": "MIN",
+						"region": "Minnesota",
+						"name": "Timberwolves",
+						"colors": [
+							"#24429C",
+							"#1CA64C",
+							"#848A8C"
+						],
+						"imgURL": "https://i.ibb.co/hHTjzFC/min1990.png",
+						"imgURLSmall": "https://i.imgur.com/xTBBEpJ.png",
+						"tid": 40
+					},
+					{
+						"did": 1,
+						"cid": 0,
+						"pop": 2.8,
+						"abbrev": "ORL",
+						"region": "Orlando",
+						"name": "Magic",
+						"colors": [
+							"#0077c0",
+							"#C4ced4",
+							"#000000"
+						],
+						"imgURL": "https://i.ibb.co/3Wyz1TD/orl1990.png",
+						"imgURLSmall": "https://i.imgur.com/HIp0r3z.png",
+						"tid": 41
+					}
+				],
+				"numProtectedPlayers": 11
+			},
+			"id": 251
+		},
+		{
+			"type": "teamInfo",
+			"season": 1997,
+			"phase": 0,
+			"info": {
+				"tid": 40,
+				"did": 2,
+				"cid": 1,
+				"colors": [
+					"#236192",
+					"#ffffff",
+					"#009739"
+				],
+				"imgURL": "https://i.ibb.co/d2WPVf0/min1997.png",
+				"imgURLSmall": "https://i.imgur.com/6VFERil.png"
+			},
+			"id": 252
+		},
+		{
+			"type": "teamInfo",
+			"season": 2005,
+			"phase": 0,
+			"info": {
+				"tid": 40,
+				"did": 4,
+				"cid": 1
+			},
+			"id": 253
+		},
+		{
+			"type": "teamInfo",
+			"season": 2009,
+			"phase": 0,
+			"info": {
+				"tid": 40,
+				"did": 4,
+				"cid": 1,
+				"imgURL": "https://i.ibb.co/540CTMm/min2009.png",
+				"imgURLSmall": "https://i.imgur.com/aUgU9T8.png"
+			},
+			"id": 254
+		},
+		{
+			"type": "teamInfo",
+			"season": 2018,
+			"phase": 0,
+			"info": {
+				"tid": 40,
+				"did": 4,
+				"cid": 1,
+				"colors": [
+					"#0C2340",
+					"#236192",
+					"#9ea2a2"
+				],
+				"imgURL": "https://i.ibb.co/bdsJhCM/min2018.png",
+				"imgURLSmall": "https://i.imgur.com/tVyaRnG.png"
+			},
+			"id": 255
+		},
+		{
+			"type": "teamInfo",
+			"season": 1991,
+			"phase": 0,
+			"info": {
+				"tid": 41,
+				"did": 2,
+				"cid": 1
+			},
+			"id": 256
+		},
+		{
+			"type": "teamInfo",
+			"season": 1992,
+			"phase": 0,
+			"info": {
+				"tid": 41,
+				"did": 0,
+				"cid": 0
+			},
+			"id": 257
+		},
+		{
+			"type": "teamInfo",
+			"season": 2001,
+			"phase": 0,
+			"info": {
+				"tid": 41,
+				"did": 0,
+				"cid": 0,
+				"imgURL": "https://i.ibb.co/DC5Jbx6/orl2001.png",
+				"imgURLSmall": "https://i.imgur.com/eWcrkZz.png"
+			},
+			"id": 258
+		},
+		{
+			"type": "teamInfo",
+			"season": 2005,
+			"phase": 0,
+			"info": {
+				"tid": 41,
+				"did": 2,
+				"cid": 0
+			},
+			"id": 259
+		},
+		{
+			"type": "teamInfo",
+			"season": 2011,
+			"phase": 0,
+			"info": {
+				"tid": 41,
+				"did": 2,
+				"cid": 0,
+				"imgURL": "https://i.imgur.com/H7YpO5e.png",
+				"imgURLSmall": "https://i.imgur.com/eWcrkZz.png"
+			},
+			"id": 260
+		},
+		{
+			"type": "teamInfo",
+			"season": 2026,
+			"phase": 0,
+			"info": {
+				"tid": 41,
+				"did": 2,
+				"cid": 0,
+				"imgURL": "https://i.imgur.com/Nqh5vW8.png",
+				"imgURLSmall": "https://i.imgur.com/qj8cNG2.png"
+			},
+			"id": 261
+		},
+		{
+			"type": "expansionDraft",
+			"season": 1995,
+			"phase": 4,
+			"info": {
+				"teams": [
+					{
+						"did": 2,
+						"cid": 1,
+						"pop": 2.6,
+						"abbrev": "VAN",
+						"region": "Vancouver",
+						"name": "Grizzlies",
+						"colors": [
+							"#00B2A9",
+							"#E43C40",
+							"#BC7844"
+						],
+						"imgURL": "https://i.ibb.co/zh9PzyJ/van.png",
+						"imgURLSmall": "https://i.imgur.com/JUUJZNu.png",
+						"tid": 42
+					},
+					{
+						"did": 1,
+						"cid": 0,
+						"pop": 6.7,
+						"abbrev": "TOR",
+						"region": "Toronto",
+						"name": "Raptors",
+						"colors": [
+							"#753BBD",
+							"#ffffff",
+							"#ba0c2f"
+						],
+						"imgURL": "https://i.ibb.co/4SYfcv3/tor1996.png",
+						"imgURLSmall": "https://i.imgur.com/ZUPwzNy.png",
+						"tid": 43
+					}
+				],
+				"numProtectedPlayers": 11
+			},
+			"id": 262
+		},
+		{
+			"type": "teamInfo",
+			"season": 2002,
+			"phase": 0,
+			"info": {
+				"tid": 42,
+				"did": 2,
+				"cid": 1,
+				"abbrev": "MEM",
+				"region": "Memphis",
+				"colors": [
+					"#010101",
+					"#ffffff",
+					"#00b2a9"
+				],
+				"imgURL": "https://i.imgur.com/gbHjNgx.png",
+				"pop": 1.3,
+				"imgURLSmall": "https://i.imgur.com/JUUJZNu.png"
+			},
+			"id": 263
+		},
+		{
+			"type": "teamInfo",
+			"season": 2005,
+			"phase": 0,
+			"info": {
+				"tid": 42,
+				"did": 3,
+				"cid": 1,
+				"colors": [
+					"#0c2340",
+					"#7d9cc0",
+					"#ffc72c"
+				],
+				"imgURL": "https://i.ibb.co/XFm2tGN/mem2005.png",
+				"imgURLSmall": "https://i.imgur.com/lVNmzZe.png"
+			},
+			"id": 264
+		},
+		{
+			"type": "teamInfo",
+			"season": 2018,
+			"phase": 0,
+			"info": {
+				"tid": 42,
+				"did": 3,
+				"cid": 1,
+				"colors": [
+					"#5D76A9",
+					"#12173F",
+					"#F5B112"
+				],
+				"imgURL": "https://i.imgur.com/8A1a3zw.png",
+				"imgURLSmall": "https://i.imgur.com/mRTBrVV.png"
+			},
+			"id": 265
+		},
+		{
+			"type": "teamInfo",
+			"season": 2005,
+			"phase": 0,
+			"info": {
+				"tid": 43,
+				"did": 0,
+				"cid": 0
+			},
+			"id": 266
+		},
+		{
+			"type": "teamInfo",
+			"season": 2009,
+			"phase": 0,
+			"info": {
+				"tid": 43,
+				"did": 0,
+				"cid": 0,
+				"colors": [
+					"#ce1141",
+					"#000000",
+					"#A1A1A4"
+				],
+				"imgURL": "https://i.ibb.co/RD42Krp/tor2009.png",
+				"imgURLSmall": "https://i.imgur.com/k6UOTP7.png"
+			},
+			"id": 267
+		},
+		{
+			"type": "teamInfo",
+			"season": 2016,
+			"phase": 0,
+			"info": {
+				"tid": 43,
+				"did": 0,
+				"cid": 0,
+				"imgURL": "https://i.ibb.co/7XtpXhq/tor2016.png",
+				"imgURLSmall": "https://i.imgur.com/SgfQfil.png"
+			},
+			"id": 268
+		},
+		{
+			"type": "teamInfo",
+			"season": 2021,
+			"phase": 0,
+			"info": {
+				"tid": 43,
+				"did": 0,
+				"cid": 0,
+				"colors": [
+					"#ce1141",
+					"#000000",
+					"#ce1141"
+				],
+				"imgURL": "https://i.ibb.co/mvkjqL1/tor2021.png",
+				"imgURLSmall": "https://i.imgur.com/RIJMbvD.png"
+			},
+			"id": 269
+		},
+		{
+			"type": "expansionDraft",
+			"season": 2004,
+			"phase": 4,
+			"info": {
+				"teams": [
+					{
+						"did": 0,
+						"cid": 0,
+						"pop": 2.8,
+						"abbrev": "CHA",
+						"region": "Charlotte",
+						"name": "Bobcats",
+						"colors": [
+							"#f9423a",
+							"#ffffff",
+							"#1b365d"
+						],
+						"imgURL": "https://i.ibb.co/sbwBPkc/cha2005.png",
+						"imgURLSmall": "https://i.imgur.com/O5atZ2j.png",
+						"tid": 44
+					}
+				],
+				"numProtectedPlayers": 12
+			},
+			"id": 270
+		},
+		{
+			"type": "teamInfo",
+			"season": 2005,
+			"phase": 0,
+			"info": {
+				"tid": 44,
+				"did": 2,
+				"cid": 0
+			},
+			"id": 271
+		},
+		{
+			"type": "teamInfo",
+			"season": 2009,
+			"phase": 0,
+			"info": {
+				"tid": 44,
+				"did": 2,
+				"cid": 0,
+				"colors": [
+					"#1b365d",
+					"#ffffff",
+					"#f9423a"
+				],
+				"imgURL": "https://i.ibb.co/bgT3MdP/cha2009.png",
+				"imgURLSmall": "https://i.imgur.com/kiaGxty.png"
+			},
+			"id": 272
+		},
+		{
+			"type": "teamInfo",
+			"season": 2013,
+			"phase": 0,
+			"info": {
+				"tid": 44,
+				"did": 2,
+				"cid": 0,
+				"colors": [
+					"#0c2340",
+					"#ffffff",
+					"#e35205"
+				],
+				"imgURL": "https://i.ibb.co/HHXZy5v/cha2013.png",
+				"imgURLSmall": "https://i.imgur.com/5TWEVFh.png"
+			},
+			"id": 273
+		},
+		{
+			"type": "teamInfo",
+			"season": 2015,
+			"phase": 0,
+			"info": {
+				"tid": 44,
+				"did": 2,
+				"cid": 0,
+				"abbrev": "CHO",
+				"name": "Hornets",
+				"colors": [
+					"#1d1160",
+					"#00788C",
+					"#A1A1A4"
+				],
+				"imgURL": "https://i.ibb.co/1b4hp0F/cho.png",
+				"imgURLSmall": "https://i.imgur.com/vXDPD5H.png"
+			},
+			"id": 274
+		},
+		{
+			"type": "gameAttributes",
+			"season": 2021,
+			"phase": 0,
+			"info": {
+				"playIn": true
+			},
+			"id": 275
+		}
+	]
+}
