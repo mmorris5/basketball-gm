@@ -6,9 +6,7 @@ const league = require(`./${process.argv[2] ?? "leagues/nba-1947.json"}`);
 
 const PRESEASON = 0;
 const DRAFT_LOTTERY = 4;
-const ga = league.gameAttributes;
-const at = (history, season) =>
-	history.filter((x) => x.start === null || x.start <= season).pop().value;
+const settings = { ...league.gameAttributes };
 
 const teams = league.teams.map((t) => ({ ...t }));
 const events = [...league.scheduledEvents].sort(
@@ -22,15 +20,26 @@ const lastSeason = Math.max(...events.map((e) => e.season), league.startingSeaso
 const errors = [];
 for (let season = league.startingSeason; season <= lastSeason; season++) {
 	for (const e of events.filter((e) => e.season === season && e.phase === PRESEASON)) {
+		if (e.type === "gameAttributes") Object.assign(settings, e.info);
 		if (e.type === "teamInfo") Object.assign(teams[e.info.tid], e.info);
 	}
 
 	const active = teams.filter((t) => !t.disabled);
-	const divs = at(ga.divs, season);
-	const confs = at(ga.confs, season);
-	const series = at(ga.numGamesPlayoffSeries, season);
-	const numPlayoffTeams = 2 ** series.length - at(ga.numPlayoffByes, season);
+	const { divs, confs, numGamesPlayoffSeries, numPlayoffByes } = settings;
+	const numPlayoffTeams = 2 ** numGamesPlayoffSeries.length - numPlayoffByes;
 
+	for (const [key, value] of Object.entries(settings)) {
+		if (Array.isArray(value) && value[0]?.start !== undefined) {
+			errors.push(`${season}: ${key} has a history array`);
+		}
+	}
+	// At creation BBGM crashes on a team in a missing division. Later, it moves
+	// disabled teams into a valid division itself when divisions change.
+	for (const t of season === league.startingSeason ? teams : []) {
+		if (t.disabled && !divs.some((d) => d.did === t.did && d.cid === t.cid)) {
+			errors.push(`${season}: disabled ${t.abbrev} in missing division ${t.did}`);
+		}
+	}
 	for (const t of active) {
 		if (!divs.some((d) => d.did === t.did && d.cid === t.cid)) {
 			errors.push(`${season}: ${t.abbrev} in missing division ${t.did}`);

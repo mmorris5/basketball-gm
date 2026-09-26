@@ -358,22 +358,38 @@ for (const draft of Object.values(drafts)) {
 	);
 }
 
-if (START < PLAY_IN_START && END >= PLAY_IN_START) {
-	addEvent({
-		type: "gameAttributes",
-		season: PLAY_IN_START,
-		phase: PRESEASON,
-		info: { playIn: true },
-	});
-}
-
-const history = (steps) => {
-	const relevant = steps.filter(([from], i) => i === steps.length - 1 || steps[i + 1][0] > START);
-	return relevant.map(([from, value], i) => ({
-		start: i === 0 ? null : from,
-		value,
-	}));
+// League settings in effect for a season.
+const settingsFor = (season) => {
+	const [, series, byes] = PLAYOFFS.filter(([from]) => from <= season).pop();
+	const era = divEra(season);
+	return {
+		numGames: stepValue(NUM_GAMES, season),
+		numGamesPlayoffSeries: series,
+		numPlayoffByes: byes,
+		playIn: season >= PLAY_IN_START,
+		confs: era.confs,
+		divs: era.divs,
+	};
 };
+
+// BBGM always reads the latest entry of a setting's history, even one dated in
+// the future, so the file holds the starting settings and later changes are
+// scheduled events. They go first so each season's new divisions exist before
+// that season's teamInfo events move teams into them.
+const settingsEvents = [];
+for (let season = START + 1; season <= END; season++) {
+	const before = settingsFor(season - 1);
+	const after = settingsFor(season);
+	const info = {};
+	for (const key of Object.keys(after)) {
+		if (JSON.stringify(before[key]) !== JSON.stringify(after[key])) {
+			info[key] = after[key];
+		}
+	}
+	if (Object.keys(info).length > 0) {
+		settingsEvents.push({ type: "gameAttributes", season, phase: PRESEASON, info });
+	}
+}
 
 const league = {
 	version: 67,
@@ -382,17 +398,12 @@ const league = {
 		phase: PRESEASON,
 		startingSeason: START,
 		hideDisabledTeams: true,
-		playIn: START >= PLAY_IN_START,
-		numGames: history(NUM_GAMES),
-		numGamesPlayoffSeries: history(PLAYOFFS.map(([from, series]) => [from, series])),
-		numPlayoffByes: history(PLAYOFFS.map(([from, , byes]) => [from, byes])),
-		confs: history(DIV_ERAS.map((era) => [era.start, era.confs])),
-		divs: history(DIV_ERAS.map((era) => [era.start, era.divs])),
+		...settingsFor(START),
 	},
 	teams,
-	scheduledEvents: events
-		.filter((e) => !e.merged)
-		.map(({ merged, ...e }, i) => ({ ...e, id: i + 1 })),
+	scheduledEvents: [...settingsEvents, ...events.filter((e) => !e.merged)].map(
+		({ merged, id, ...e }, i) => ({ ...e, id: i + 1 }),
+	),
 };
 
 const file = `leagues/nba-${START}.json`;
