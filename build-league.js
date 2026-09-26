@@ -375,6 +375,7 @@ const league = {
 	version: 67,
 	startingSeason: START,
 	gameAttributes: {
+		phase: PRESEASON,
 		startingSeason: START,
 		hideDisabledTeams: true,
 		playIn: START >= PLAY_IN_START,

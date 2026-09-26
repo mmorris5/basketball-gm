@@ -2,6 +2,7 @@
 	"version": 67,
 	"startingSeason": 1947,
 	"gameAttributes": {
+		"phase": 0,
 		"startingSeason": 1947,
 		"hideDisabledTeams": true,
 		"playIn": false,
