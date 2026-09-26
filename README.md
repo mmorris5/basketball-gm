@@ -1,6 +1,18 @@
 # BBGM NBA Team Data
 
-## Play it in BBGM
+## Real players with real team names and logos
+
+BBGM's "Real players and teams" leagues use made-up team names unless you give
+it team info:
+
+1. Open https://raw.githubusercontent.com/mmorris5/basketball-gm/main/real-team-info.json, select all and copy.
+2. In BBGM, go to Tools → Global Settings, paste it into **Real Data → Team Info**, and save.
+3. New League → Customize → **Real players and teams**, pick the season and phase (e.g. 1997, Draft).
+
+The team info applies to every real players league, including existing ones,
+and switches logos/names as seasons pass. Regenerate it with `node build-real-team-info.js`.
+
+## Random players, starting in 1947
 
 In BBGM, go to New League → Customize → **Enter league file URL** and use:
 
